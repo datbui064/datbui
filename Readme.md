@@ -9,3 +9,14 @@ login github
 
 kết bạn
 
+
+
+@upload code 
+- git add .
+- git commit -m "<mo ta>"
+- git push origin
+@dowload code
+- create folder
+- cd git
+- git clone <url>
+
