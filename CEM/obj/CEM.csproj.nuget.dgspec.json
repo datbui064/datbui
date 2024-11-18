@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpace\\Project B10D55\\CEM\\CEM.csproj": {}
+    "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpace\\Project B10D55\\CEM\\CEM.csproj": {
+    "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\Project B10D55\\CEM\\CEM.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj",
         "projectName": "CEM",
-        "projectPath": "D:\\WorkSpace\\Project B10D55\\CEM\\CEM.csproj",
+        "projectPath": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\Project B10D55\\CEM\\obj\\",
+        "outputPath": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

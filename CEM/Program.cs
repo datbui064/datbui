@@ -1,10 +1,27 @@
 using CEM.Components;
+using Microsoft.EntityFrameworkCore;
+using QLB.Components;
+using QLB.Models;
+using Radzen;
 
 var builder = WebApplication.CreateBuilder(args);
+
+IConfigurationRoot configuration = new ConfigurationBuilder()
+                        .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+                        .AddJsonFile("appsettings.json")
+                        .Build();
+builder.Services.AddDbContext<dbQLBContext>(options => options.UseSqlServer(configuration.GetConnectionString("DBConnection"), p => p.EnableRetryOnFailure()), ServiceLifetime.Transient);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+builder.Services.AddRadzenComponents();
+builder.Services.AddServerSideBlazor();
+builder.Services.AddRazorPages();
+builder.Services.AddRadzenCookieThemeService();
+builder.Services.AddScoped<DialogService>();
+builder.Services.AddScoped<NotificationService>();
+
 
 var app = builder.Build();
 
@@ -17,6 +34,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
 
 app.UseStaticFiles();
 app.UseAntiforgery();
