@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vivdJRCeypQ=",
   "success": true,
   "projectFilePath": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj",
@@ -94,5 +95,11 @@
     "C:\\Users\\ADMIN\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "6qRuZRwSkdc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\datbui\\CEM\\CEM.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> f56739997327c5ba6d5a8b55e75bda2ba15dc65b
   "logs": []
 }

@@ -5157,23 +5157,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj",
       "projectName": "CEM",
       "projectPath": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\datbui\\CEM\\CEM.csproj",
+      "projectName": "CEM",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\datbui\\CEM\\CEM.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\datbui\\CEM\\obj\\",
+>>>>>>> f56739997327c5ba6d5a8b55e75bda2ba15dc65b
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
