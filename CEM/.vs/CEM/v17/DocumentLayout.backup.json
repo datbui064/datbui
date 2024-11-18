@@ -66,8 +66,7 @@
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T14:50:57.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T14:50:57.357Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-18T13:46:25.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:46:25.993Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-18T13:46:24.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:46:24.205Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "Models\\tbBaiGiang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:45:42.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:45:42.233Z"
             },
             {
               "$type": "Document",
@@ -118,21 +114,19 @@
               "RelativeToolTip": "Models\\dbQLBContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:45:28.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:45:28.66Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CEM",
+              "Title": "CEM.csproj",
               "DocumentMoniker": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj",
               "RelativeDocumentMoniker": "CEM.csproj",
               "ToolTip": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\CEM.csproj",
               "RelativeToolTip": "CEM.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-18T13:44:37.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:44:37.101Z"
             },
             {
               "$type": "Document",
@@ -142,7 +136,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\WorkSpace\\GitHub\\datbui\\CEM\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T12:53:55.356Z",
               "EditorCaption": ""

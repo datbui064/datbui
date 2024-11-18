@@ -1,7 +1,6 @@
 using CEM.Components;
 using Microsoft.EntityFrameworkCore;
-using QLB.Components;
-using QLB.Models;
+using CEM.Models;
 using Radzen;
 
 var builder = WebApplication.CreateBuilder(args);

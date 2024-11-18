@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection.Emit;
 
 
-namespace QLB.Models
+namespace CEM.Models
 {
     public partial class dbQLBContext : DbContext
     {

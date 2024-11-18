@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CEM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6a0801fd11e67e9be62c40721f1de1b31846596")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6bfb8345094e216f260a2f6675089cedbc16221")]
 [assembly: System.Reflection.AssemblyProductAttribute("CEM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CEM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
