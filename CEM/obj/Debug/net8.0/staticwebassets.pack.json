@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CEM.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CEM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CEM.props",
+      "PackagePath": "build\\CEM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CEM.props",
+      "PackagePath": "buildMultiTargeting\\CEM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CEM.props",
+      "PackagePath": "buildTransitive\\CEM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
