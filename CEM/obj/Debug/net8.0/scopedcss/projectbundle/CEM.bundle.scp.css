@@ -1,3 +1,14 @@
+/* _content/CEM/Components/Layout/AuthLayout.razor.rz.scp.css */
+.midle-box[b-rxzuvngso3]
+{
+    margin:auto;
+    margin-top: 100px;
+    width:450px;
+    box-shadow:5px 10px 18px #888888;
+    border-radius:20px;
+    padding:30px;
+    
+}
 /* _content/CEM/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-00qf0dkvrn] {
     position: relative;
