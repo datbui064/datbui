@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -46,8 +50,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:47:25.912Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,14 +73,14 @@
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAywDIAAAAeAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAywEAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-19T03:18:28.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -95,12 +112,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T03:17:46.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:46.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -108,12 +124,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T03:17:46.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:46.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "tbBaiGiang.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\tbBaiGiang.cs",
               "RelativeDocumentMoniker": "Models\\tbBaiGiang.cs",
@@ -125,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "dbQLBContext.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\dbQLBContext.cs",
               "RelativeDocumentMoniker": "Models\\dbQLBContext.cs",
@@ -137,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CEM.csproj",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
               "RelativeDocumentMoniker": "CEM.csproj",
@@ -145,12 +160,11 @@
               "RelativeToolTip": "CEM.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T03:17:46.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:46.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
