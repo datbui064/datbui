@@ -339,3 +339,7 @@ C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.pdb
 C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.genruntimeconfig.cache
 C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\ref\CEM.dll
 C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\AuthLayout.razor.rz.scp.css
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\PlannerApp.Shared.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\PlannerApp.Shared.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Auth\Register.razor.rz.scp.css

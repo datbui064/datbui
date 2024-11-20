@@ -1,0 +1,45 @@
+﻿/* CSS cho trang đăng ký */
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+label
+{
+   
+}
+
+.col-12 {
+    max-width: 400px; /* Chiều rộng tối đa của form */
+    width: 100%;
+    padding: 20px;
+    background-color: #f9f9f9; /* Màu nền nhẹ */
+    border-radius: 8px; /* Bo góc */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Đổ bóng */
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px; /* Khoảng cách dưới tiêu đề */
+}
+
+.input-field {
+    margin-bottom: 15px; /* Khoảng cách giữa các trường nhập */
+    width: 100%; /* Đặt chiều rộng trường nhập 100% */
+}
+
+.validation-message {
+    color: red; /* Màu đỏ cho thông báo lỗi */
+    font-size: 0.9em; /* Kích thước chữ nhỏ hơn */
+}
+
+hr {
+    margin: 20px 0; /* Khoảng cách cho đường kẻ */
+}
+
+.botton-register {
+    width: 100%; /* Đặt chiều rộng nút 100% */
+    margin-top: 10px; /* Khoảng cách trên nút */
+    padding: 10px; /* Padding cho nút */
+}

@@ -1756,6 +1756,15 @@
             "rid": "win"
           }
         }
+      },
+      "PlannerApp.Shared/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/PlannerApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlannerApp.Shared.dll": {}
+        }
       }
     }
   },
@@ -5146,6 +5155,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "PlannerApp.Shared/1.0.0": {
+      "type": "project",
+      "path": "../PlannerApp.Shared/PlannerApp.Shared.csproj",
+      "msbuildProject": "../PlannerApp.Shared/PlannerApp.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5153,6 +5167,7 @@
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
+      "PlannerApp.Shared >= 1.0.0",
       "Radzen.Blazor >= 5.6.3"
     ]
   },
@@ -5188,7 +5203,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5247,13 +5266,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

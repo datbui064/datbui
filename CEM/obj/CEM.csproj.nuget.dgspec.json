@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -90,6 +94,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj",
+        "projectName": "PlannerApp.Shared",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
