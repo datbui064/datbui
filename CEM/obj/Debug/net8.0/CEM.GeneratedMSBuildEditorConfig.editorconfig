@@ -17,47 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CEM
 build_property.RootNamespace = CEM
-build_property.ProjectDir = C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\
+build_property.ProjectDir = C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/App.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/Pages/Counter.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/Pages/Error.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/Pages/Home.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/Pages/Weather.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/Routes.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/_Imports.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/Layout/MainLayout.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Layout/AuthLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQXV0aExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rxzuvngso3
+
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-00qf0dkvrn
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Components/Layout/NavMenu.razor]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-b7ml8rtjtw
+
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Auth/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRoXFJlZ2lzdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-4008i97kd2
+
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-olg59demgu

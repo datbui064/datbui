@@ -1,0 +1,69 @@
+﻿@page "/auth/register"
+
+@layout AuthLayout
+@using CEM.Components.Layout
+@using PlannerApp.Shared.Models
+@using Radzen.Blazor
+@using Radzen
+
+
+
+<div class="row">
+    <div class="col-12">
+        <h2>Create New Account</h2>
+        <EditForm Model="model" OnValidSubmit="RegisterUser">
+            <RadzenCard>
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+            
+                <label><b>First Name </b></label>
+                <br />
+                <RadzenTextBox  @bind-Value="model.FirstName" class="input-field"></RadzenTextBox>
+                
+                 <br />
+                <br />
+                
+
+                <label><b>Last Name</b></label>
+                <br />
+                <RadzenTextBox @bind-Value="model.LastName" class="input-field"></RadzenTextBox>
+               
+                <br />
+                <br />
+                <label><b>Email </b></label>
+                <br />
+                <RadzenTextBox @bind-Value="model.Email" class="input-field"></RadzenTextBox>
+               
+                <br />
+                <br />
+                <label><b>Password </b></label>
+                <br />
+                <RadzenPassword @bind-Value="model.Password" class="input-field"></RadzenPassword>
+                
+                <br />
+                <br />
+                <label><b>Confirm Password </b></label>
+                <br />
+                <RadzenPassword @bind-Value="model.ComfirmPassword" class="input-field"></RadzenPassword>
+                
+            </RadzenCard>
+                <hr />
+                
+                <RadzenButton ButtonType="Radzen.ButtonType.Submit" Text="Register"
+                          ButtonStyle="Radzen.ButtonStyle.Primary" class="botton-register" />
+                
+                <RadzenButton  ButtonType="Radzen.ButtonType.Button" Text="Login"
+                              ButtonStyle="Radzen.ButtonStyle.Secondary" class="botton-register" />
+            
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private RegisterRequest model = new RegisterRequest();
+
+    private void RegisterUser()
+    {
+        
+    }
+}

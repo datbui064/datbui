@@ -1,0 +1,52 @@
+﻿@page "/login"
+@layout AuthLayout
+
+
+@using CEM.Components.Layout
+@using Radzen.Blazor
+
+
+
+
+
+<h3>Đăng Nhập</h3>
+
+<div class="login-container">
+    <EditForm Model="loginModel" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <label for="email">Email hoặc Số điện thoại</label>
+            <InputText id="email" @bind-Value="loginModel.Email" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label for="password">Mật Khẩu</label>
+            <InputText id="password" @bind-Value="loginModel.Password" type="password" class="form-control" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Đăng Nhập</button>
+
+        <div class="forgot-password">
+            <a href="#">Quên mật khẩu?</a>
+        </div>
+    </EditForm>
+</div>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+
+    private async Task HandleValidSubmit()
+    {
+        // Xử lý đăng nhập ở đây
+    }
+
+    public class LoginModel
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+}
+
+

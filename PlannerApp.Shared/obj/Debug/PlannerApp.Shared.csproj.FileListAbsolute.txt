@@ -1,0 +1,6 @@
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\PlannerApp.Shared\bin\Debug\PlannerApp.Shared.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\PlannerApp.Shared\bin\Debug\PlannerApp.Shared.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\PlannerApp.Shared\obj\Debug\PlannerApp.Shared.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\PlannerApp.Shared\obj\Debug\PlannerApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\PlannerApp.Shared\obj\Debug\PlannerApp.Shared.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\PlannerApp.Shared\obj\Debug\PlannerApp.Shared.pdb
