@@ -66,8 +66,7 @@
               "RelativeToolTip": "Components\\Pages\\Login.razor",
               "ViewState": "AQIAABMAAAAAAAAAAAAEwC4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T14:06:25.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T14:06:25.195Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T03:18:28.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:18:28.788Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T03:17:46.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:46.683Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T03:17:46.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:46.917Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T03:17:46.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:46.92Z"
             },
             {
               "$type": "Document",
@@ -131,8 +126,7 @@
               "RelativeToolTip": "Models\\tbBaiGiang.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:17:46.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:46.923Z"
             },
             {
               "$type": "Document",
@@ -144,8 +138,7 @@
               "RelativeToolTip": "Models\\dbQLBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:17:46.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:46.926Z"
             },
             {
               "$type": "Document",
@@ -153,8 +146,8 @@
               "Title": "CEM.csproj",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
               "RelativeDocumentMoniker": "CEM.csproj",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj*",
-              "RelativeToolTip": "CEM.csproj*",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
+              "RelativeToolTip": "CEM.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-19T03:17:46.933Z",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "Components\\Pages\\Weather.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T03:18:27.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:18:27.504Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:17:47.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T03:17:47.173Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:47:25.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T12:47:25.912Z"
             }
           ]
         }
