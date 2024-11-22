@@ -2,6 +2,7 @@ using CEM.Components;
 using Microsoft.EntityFrameworkCore;
 using CEM.Models;
 using Radzen;
+using CEM.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,7 +10,15 @@ IConfigurationRoot configuration = new ConfigurationBuilder()
                         .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
                         .AddJsonFile("appsettings.json")
                         .Build();
+<<<<<<< HEAD
 builder.Services.AddDbContext<CEMContext>(options => options.UseSqlServer(configuration.GetConnectionString("DBConnection"), p => p.EnableRetryOnFailure()), ServiceLifetime.Transient);
+=======
+builder.Services.AddDbContext<dbQLBContext>(options => options.UseSqlServer(configuration.GetConnectionString("DBConnection"), p => p.EnableRetryOnFailure()), ServiceLifetime.Transient);
+builder.Services.AddDbContext<QlbContext>(options =>
+    options.UseSqlServer(configuration.GetConnectionString("QLB"), p => p.EnableRetryOnFailure()));
+
+
+>>>>>>> e6ffa14f78348e22e200b856db44922a96e4e891
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
