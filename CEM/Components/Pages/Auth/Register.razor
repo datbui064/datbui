@@ -2,68 +2,93 @@
 
 @layout AuthLayout
 @using CEM.Components.Layout
-@using PlannerApp.Shared.Models
-@using Radzen.Blazor
+@using Microsoft.EntityFrameworkCore
+@using CEM.Models
+@inject CEMContext dbcontext
+@inject Radzen.NotificationService NotificationService
 @using Radzen
-
-
+@using Radzen.Blazor
+@inject NavigationManager NavigationManager
 
 <div class="row">
     <div class="col-12">
         <h2>Create New Account</h2>
-        <EditForm Model="model" OnValidSubmit="RegisterUser">
+        <EditForm Model="model" OnValidSubmit="RegisterUser" FormName="registerForm">
             <RadzenCard>
                 <DataAnnotationsValidator />
                 <ValidationSummary />
-            
+
                 <label><b>First Name </b></label>
                 <br />
-                <RadzenTextBox  @bind-Value="model.FirstName" class="input-field"></RadzenTextBox>
-                
-                 <br />
-                <br />
-                
+                <RadzenTextBox @bind-Value="model.FirstName" class="input-field"></RadzenTextBox>
+
+                <br /><br />
 
                 <label><b>Last Name</b></label>
                 <br />
                 <RadzenTextBox @bind-Value="model.LastName" class="input-field"></RadzenTextBox>
-               
-                <br />
-                <br />
+
+                <br /><br />
+
                 <label><b>Email </b></label>
                 <br />
                 <RadzenTextBox @bind-Value="model.Email" class="input-field"></RadzenTextBox>
-               
-                <br />
-                <br />
+
+                <br /><br />
+
                 <label><b>Password </b></label>
                 <br />
                 <RadzenPassword @bind-Value="model.Password" class="input-field"></RadzenPassword>
-                
-                <br />
-                <br />
+
+                <br /><br />
+
                 <label><b>Confirm Password </b></label>
                 <br />
-                <RadzenPassword @bind-Value="model.ComfirmPassword" class="input-field"></RadzenPassword>
-                
+                <RadzenPassword @bind-Value="model.ConfirmPassword" class="input-field"></RadzenPassword>
             </RadzenCard>
-                <hr />
-                
-                <RadzenButton ButtonType="Radzen.ButtonType.Submit" Text="Register"
+            <hr />
+
+            <RadzenButton ButtonType="Radzen.ButtonType.Submit" Text="Register"
                           ButtonStyle="Radzen.ButtonStyle.Primary" class="botton-register" />
-                
-                <RadzenButton  ButtonType="Radzen.ButtonType.Button" Text="Login"
-                              ButtonStyle="Radzen.ButtonStyle.Secondary" class="botton-register" />
-            
+
+            <RadzenButton ButtonType="Radzen.ButtonType.Button" Text="Login" Click="NavigateToLogin"
+                          ButtonStyle="Radzen.ButtonStyle.Secondary" class="botton-register" />
         </EditForm>
     </div>
 </div>
 
 @code {
-    private RegisterRequest model = new RegisterRequest();
+    private User model = new User();
 
-    private void RegisterUser()
+    private async Task RegisterUser()
     {
-        
+        if (model.Password != model.ConfirmPassword)
+        {
+            return; // Không làm gì nếu mật khẩu không khớp
+        }
+
+        try
+        {
+            var user = new User
+                {
+                    FirstName = model.FirstName,
+                    LastName = model.LastName,
+                    Email = model.Email,
+                    Password = model.Password // Nên mã hóa mật khẩu trước khi lưu
+                };
+
+            dbcontext.Users.Add(user);
+            await dbcontext.SaveChangesAsync();
+           // NavigationManager.NavigateTo("/login"); // Chuyển hướng sau khi đăng ký thành công
+        }
+        catch (Exception)
+        {
+            // Không làm gì trong trường hợp lỗi
+        }
+    }
+
+    public void NavigateToLogin()
+    {
+        NavigationManager.NavigateTo("/login");
     }
 }

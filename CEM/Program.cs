@@ -9,7 +9,7 @@ IConfigurationRoot configuration = new ConfigurationBuilder()
                         .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
                         .AddJsonFile("appsettings.json")
                         .Build();
-builder.Services.AddDbContext<dbQLBContext>(options => options.UseSqlServer(configuration.GetConnectionString("DBConnection"), p => p.EnableRetryOnFailure()), ServiceLifetime.Transient);
+builder.Services.AddDbContext<CEMContext>(options => options.UseSqlServer(configuration.GetConnectionString("DBConnection"), p => p.EnableRetryOnFailure()), ServiceLifetime.Transient);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()

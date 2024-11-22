@@ -1,50 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\cem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:cem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\b10d55\\datbui\\cem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\models\\tbbaigiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\tbbaigiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\models\\dbqlbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\dbqlbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\b10d55\\datbui\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\b10d55\\datbui\\cem\\components\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\b10d55\\datbui\\cem\\models\\cemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\cemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\b10d55\\datbui\\cem\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\b10d55\\datbui\\cem\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8503804-4629-4334-8F96-64670319C73B}|..\\PlannerApp.Shared\\PlannerApp.Shared.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\b10d55\\datbui\\plannerapp.shared\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\b10d55\\datbui\\cem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +41,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Login.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Login.razor",
-              "RelativeToolTip": "Components\\Pages\\Login.razor",
-              "ViewState": "AQIAABMAAAAAAAAAAAAEwC4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T14:06:25.195Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T03:18:28.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\_Imports.razor",
-              "RelativeToolTip": "Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T03:17:46.683Z",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:05:53.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T03:17:46.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-19T03:17:46.92Z",
-              "EditorCaption": ""
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T15:31:27.739Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "tbBaiGiang.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\tbBaiGiang.cs",
-              "RelativeDocumentMoniker": "Models\\tbBaiGiang.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\tbBaiGiang.cs",
-              "RelativeToolTip": "Models\\tbBaiGiang.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:17:46.923Z",
-              "EditorCaption": ""
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Components\\Pages\\Auth\\Register.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Auth\\Register.razor",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Components\\Pages\\Auth\\Register.razor",
+              "RelativeToolTip": "Components\\Pages\\Auth\\Register.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T14:43:43.016Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "dbQLBContext.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\dbQLBContext.cs",
-              "RelativeDocumentMoniker": "Models\\dbQLBContext.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\dbQLBContext.cs",
-              "RelativeToolTip": "Models\\dbQLBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CEMContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Models\\CEMContext.cs",
+              "RelativeDocumentMoniker": "Models\\CEMContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Models\\CEMContext.cs",
+              "RelativeToolTip": "Models\\CEMContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:17:46.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CEM.csproj",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
-              "RelativeDocumentMoniker": "CEM.csproj",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj*",
-              "RelativeToolTip": "CEM.csproj*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T03:17:46.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T03:18:27.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:05:33.803Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\RegisterRequest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:17:47.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:20:28.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Pages\\Login.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:47:25.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T15:35:30.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\PlannerApp.Shared\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\PlannerApp.Shared\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\PlannerApp.Shared\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\PlannerApp.Shared\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:27:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\M\u00E1y t\u00EDnh\\B10D55\\datbui\\CEM\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T14:50:43.242Z"
             }
           ]
         }
