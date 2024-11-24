@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SWvi1vGkWxsKTt3JTjGugftOGRjc3fZUemJH/KLIbrk=",
+  "Hash": "gHTq0hfZ2/KO8bUhILGADc3V05BY1cTPEd6ZZbUC4gU=",
   "Source": "CEM",
   "BasePath": "_content/CEM",
   "Mode": "Default",
@@ -794,6 +794,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\site.js",
+      "SourceId": "CEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\",
+      "BasePath": "_content/CEM",
+      "RelativePath": "site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.js"
     }
   ]
 }

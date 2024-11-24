@@ -1,0 +1,99 @@
+﻿@page "/add"
+@using Microsoft.AspNetCore.Components.Forms
+
+<h1>Thêm mới hồ sơ thu thập</h1>
+<EditForm Model="@profile" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="name">Tên người nhập</label>
+        <InputText id="name" class="form-control" @bind-Value="profile.Name" required />
+    </div>
+    <div class="form-group">
+        <label for="code">Mã</label>
+        <InputText id="code" class="form-control" @bind-Value="profile.Code" required />
+    </div>
+    <div class="form-group">
+        <label for="decisionNumber">Số quyết định</label>
+        <InputText id="decisionNumber" class="form-control" @bind-Value="profile.DecisionNumber" required />
+    </div>
+    <div class="form-group">
+        <label for="signer">Người ký</label>
+        <InputText id="signer" class="form-control" @bind-Value="profile.Signer" required />
+    </div>
+    <div class="form-group">
+        <label for="email">Email</label>
+        <InputText id="email" class="form-control" @bind-Value="profile.Email" type="email" required />
+    </div>
+    <div class="form-group">
+        <label for="type">Hình thức trú</label>
+        <InputSelect id="type" class="form-control" @bind-Value="profile.Type" required>
+            <option value="luu-tru-co-quan">Lưu trú cơ quan</option>
+            <option value="luu-tru-lich-su">Lưu trú lịch sử</option>
+        </InputSelect>
+    </div>
+    <div class="form-group">
+        <table class="table table-bordered" id="accommodation-table">
+            <thead>
+                <tr>
+                    <th>Hình thức trú</th>
+                    <th>Thông tin chi tiết</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@accommodationType</td>
+                    <td>
+                        <InputText class="form-control" @bind-Value="accommodationDetails" />
+                        <button type="button" class="btn btn-primary mt-2" @onclick="ShowModal">Thêm</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="form-group">
+        <label for="fileLink">Folder chứa tài liệu</label>
+        <div class="input-group">
+            <InputText id="fileLink" class="form-control" @bind-Value="profile.FileLink" required />
+            <div class="input-group-append">
+                <button class="btn btn-outline-secondary" type="button" @onclick="OpenFolder">Mở folder</button>
+            </div>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-success">Lưu hồ sơ</button>
+</EditForm>
+
+@code {
+    private ProfileModel profile = new ProfileModel();
+    private string? accommodationType;
+    private string? accommodationDetails;
+
+    private void ShowModal()
+    {
+        // Hiển thị modal để thêm thông tin hình thức trú
+        // Thực hiện logic để hiển thị modal nếu cần
+    }
+
+    private void OpenFolder()
+    {
+        // Logic mở folder
+    }
+
+    private void HandleValidSubmit()
+    {
+        // Xử lý lưu hồ sơ
+        Console.WriteLine($"Thông tin hồ sơ: {profile.Name}, {profile.Code}, {profile.DecisionNumber}, {profile.Signer}, {profile.Email}, {profile.Type}, {accommodationDetails}");
+    }
+
+    public class ProfileModel
+    {
+        public string? Name { get; set; }
+        public string? Code { get; set; }
+        public string? DecisionNumber { get; set; }
+        public string? Signer { get; set; }
+        public string? Email { get; set; }
+        public string? Type { get; set; }
+        public string? FileLink { get; set; }
+    }
+}

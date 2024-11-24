@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PlannerApp.Shared.Models
+namespace CEM.Models
 {
     public class UserManagerResponse
     {

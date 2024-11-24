@@ -7,16 +7,64 @@
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\qd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\qd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\baigiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\baigiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\chuongtrinhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\chuongtrinhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\baocaongoaikhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\baocaongoaikhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\hethonggiaoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\hethonggiaoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\hethongcauhoivabt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\hethongcauhoivabt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\kehoachthuchienbiagiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\kehoachthuchienbiagiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\giaobai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\giaobai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\luutru.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\luutru.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\wwwroot\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:wwwroot\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,44 +87,16 @@
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\chuongtrinhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\chuongtrinhdaotao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\hethongcauhoivabt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\hethongcauhoivabt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\qd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\qd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\tailieuctngoaikhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\tailieuctngoaikhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\baocaongoaikhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\baocaongoaikhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\kehoachthuchienbiagiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\kehoachthuchienbiagiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\giaotrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\giaotrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\hethonggiaoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\hethonggiaoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\models\\dbqlbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\dbqlbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\data\\qlbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\cem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:cem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\models\\tbbaigiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\tbbaigiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -101,6 +117,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|c:\\users\\fptshop\\desktop\\duan\\datbui\\cem\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\dbQLBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\dbQLBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\tbBaiGiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\tbBaiGiang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,19 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.razor",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Auth\\Register.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Auth\\Register.razor",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Auth\\Register.razor",
-              "RelativeToolTip": "Components\\Pages\\Auth\\Register.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T08:14:53.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "KeHoachThucHienBiaGiang.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\KeHoachThucHienBiaGiang.cs",
               "RelativeDocumentMoniker": "Data\\KeHoachThucHienBiaGiang.cs",
@@ -138,7 +150,8 @@
               "RelativeToolTip": "Data\\KeHoachThucHienBiaGiang.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:27:45.474Z"
+              "WhenOpened": "2024-11-21T16:27:45.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -148,26 +161,144 @@
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAOcAAAAAAAAAAAAywAsBAAAHAAAA",
+              "ViewState": "AQIAADQBAAAAAAAAAAAxwEcBAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-19T03:18:28.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TaiLieuCtngoaiKhoa.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\TaiLieuCtngoaiKhoa.cs",
-              "RelativeDocumentMoniker": "Data\\TaiLieuCtngoaiKhoa.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\TaiLieuCtngoaiKhoa.cs",
-              "RelativeToolTip": "Data\\TaiLieuCtngoaiKhoa.cs",
+              "DocumentIndex": 7,
+              "Title": "HeThongCauhoivaBt.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\HeThongCauhoivaBt.cs",
+              "RelativeDocumentMoniker": "Data\\HeThongCauhoivaBt.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\HeThongCauhoivaBt.cs",
+              "RelativeToolTip": "Data\\HeThongCauhoivaBt.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:27:53.11Z"
+              "WhenOpened": "2024-11-21T16:27:46.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeThongGiaoAn.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\HeThongGiaoAn.cs",
+              "RelativeDocumentMoniker": "Data\\HeThongGiaoAn.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\HeThongGiaoAn.cs",
+              "RelativeToolTip": "Data\\HeThongGiaoAn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:23:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChuongTrinhDaoTao.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\ChuongTrinhDaoTao.cs",
+              "RelativeDocumentMoniker": "Data\\ChuongTrinhDaoTao.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\ChuongTrinhDaoTao.cs",
+              "RelativeToolTip": "Data\\ChuongTrinhDaoTao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:23:32.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "BaoCaoNgoaiKhoa.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\BaoCaoNgoaiKhoa.cs",
+              "RelativeDocumentMoniker": "Data\\BaoCaoNgoaiKhoa.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\BaoCaoNgoaiKhoa.cs",
+              "RelativeToolTip": "Data\\BaoCaoNgoaiKhoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:27:48.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Qd.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\Qd.cs",
+              "RelativeDocumentMoniker": "Data\\Qd.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\Qd.cs",
+              "RelativeToolTip": "Data\\Qd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:27:54.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaiGiang.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\BaiGiang.cs",
+              "RelativeDocumentMoniker": "Data\\BaiGiang.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\BaiGiang.cs",
+              "RelativeToolTip": "Data\\BaiGiang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:12:06.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Pages\\Login.razor",
+              "ViewState": "AQIAADcAAAAAAAAAAIAzwEoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T14:06:25.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GiaoBai.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\GiaoBai.cs",
+              "RelativeDocumentMoniker": "Data\\GiaoBai.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\GiaoBai.cs",
+              "RelativeToolTip": "Data\\GiaoBai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T06:07:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LuuTru.razor",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\LuuTru.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\LuuTru.razor",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\LuuTru.razor",
+              "RelativeToolTip": "Components\\Pages\\LuuTru.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T05:54:22.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Upload.razor",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Upload.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Upload.razor",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Upload.razor",
+              "RelativeToolTip": "Components\\Pages\\Upload.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T05:54:02.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -179,7 +310,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
+              "Title": "TaiLieuCtngoaiKhoa.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\TaiLieuCtngoaiKhoa.cs",
+              "RelativeDocumentMoniker": "Data\\TaiLieuCtngoaiKhoa.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\TaiLieuCtngoaiKhoa.cs",
+              "RelativeToolTip": "Data\\TaiLieuCtngoaiKhoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:27:53.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\site.js",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\site.js",
+              "RelativeToolTip": "wwwroot\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T05:50:43.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Test.razor",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Test.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Test.razor",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Test.razor",
+              "RelativeToolTip": "Components\\Pages\\Test.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T05:50:52.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -191,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -203,19 +372,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Login.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Login.razor",
-              "RelativeToolTip": "Components\\Pages\\Login.razor",
-              "ViewState": "AQIAABsAAAAAAAAAAAAzwC8AAAAWAAAA",
+              "DocumentIndex": 14,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Auth\\Register.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Auth\\Register.razor",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Auth\\Register.razor",
+              "RelativeToolTip": "Components\\Pages\\Auth\\Register.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T14:06:25.195Z"
+              "WhenOpened": "2024-11-22T08:14:53.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "wwwroot\\bootstrap\\bootstrap.min.css",
@@ -227,31 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HeThongCauhoivaBt.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\HeThongCauhoivaBt.cs",
-              "RelativeDocumentMoniker": "Data\\HeThongCauhoivaBt.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\HeThongCauhoivaBt.cs",
-              "RelativeToolTip": "Data\\HeThongCauhoivaBt.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:27:46.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BaoCaoNgoaiKhoa.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\BaoCaoNgoaiKhoa.cs",
-              "RelativeDocumentMoniker": "Data\\BaoCaoNgoaiKhoa.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\BaoCaoNgoaiKhoa.cs",
-              "RelativeToolTip": "Data\\BaoCaoNgoaiKhoa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:27:48.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\app.css",
@@ -263,31 +408,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "favicon.png - PNG [32x32, 32 bit, PNG]",
+              "DocumentIndex": 20,
+              "Title": "favicon.png",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\favicon.png",
               "RelativeDocumentMoniker": "wwwroot\\favicon.png",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\favicon.png - PNG [32x32, 32 bit, PNG]",
-              "RelativeToolTip": "wwwroot\\favicon.png - PNG [32x32, 32 bit, PNG]",
+              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\favicon.png",
+              "RelativeToolTip": "wwwroot\\favicon.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-22T07:20:15.931Z",
-              "EditorCaption": " - PNG [32x32, 32 bit, PNG]"
+              "WhenOpened": "2024-11-22T07:20:15.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChuongTrinhDaoTao.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\ChuongTrinhDaoTao.cs",
-              "RelativeDocumentMoniker": "Data\\ChuongTrinhDaoTao.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\ChuongTrinhDaoTao.cs",
-              "RelativeToolTip": "Data\\ChuongTrinhDaoTao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:23:32.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "GiaoTrinh.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\GiaoTrinh.cs",
               "RelativeDocumentMoniker": "Data\\GiaoTrinh.cs",
@@ -299,31 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HeThongGiaoAn.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\HeThongGiaoAn.cs",
-              "RelativeDocumentMoniker": "Data\\HeThongGiaoAn.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\HeThongGiaoAn.cs",
-              "RelativeToolTip": "Data\\HeThongGiaoAn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:23:31.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Qd.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\Qd.cs",
-              "RelativeDocumentMoniker": "Data\\Qd.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\Qd.cs",
-              "RelativeToolTip": "Data\\Qd.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T16:27:54.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "QlbContext.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\QlbContext.cs",
               "RelativeDocumentMoniker": "Data\\QlbContext.cs",
@@ -335,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "dbQLBContext.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\dbQLBContext.cs",
               "RelativeDocumentMoniker": "Models\\dbQLBContext.cs",
@@ -343,11 +451,11 @@
               "RelativeToolTip": "Models\\dbQLBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:17:46.926Z"
+              "WhenOpened": "2024-11-24T05:50:36.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "DangNhap.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Data\\DangNhap.cs",
               "RelativeDocumentMoniker": "Data\\DangNhap.cs",
@@ -359,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "tbBaiGiang.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\tbBaiGiang.cs",
               "RelativeDocumentMoniker": "Models\\tbBaiGiang.cs",
@@ -367,11 +475,11 @@
               "RelativeToolTip": "Models\\tbBaiGiang.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:17:46.923Z"
+              "WhenOpened": "2024-11-24T05:50:36.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -383,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "CEM.csproj",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
               "RelativeDocumentMoniker": "CEM.csproj",
@@ -395,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
@@ -407,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
