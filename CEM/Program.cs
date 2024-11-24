@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using CEM.Models;
 using Radzen;
 using CEM.Data;
+using System.Configuration;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,15 +12,21 @@ IConfigurationRoot configuration = new ConfigurationBuilder()
                         .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
                         .AddJsonFile("appsettings.json")
                         .Build();
-<<<<<<< HEAD
-builder.Services.AddDbContext<CEMContext>(options => options.UseSqlServer(configuration.GetConnectionString("DBConnection"), p => p.EnableRetryOnFailure()), ServiceLifetime.Transient);
-=======
-builder.Services.AddDbContext<dbQLBContext>(options => options.UseSqlServer(configuration.GetConnectionString("DBConnection"), p => p.EnableRetryOnFailure()), ServiceLifetime.Transient);
-builder.Services.AddDbContext<QlbContext>(options =>
-    options.UseSqlServer(configuration.GetConnectionString("QLB"), p => p.EnableRetryOnFailure()));
+
+builder.Services.AddDbContext<CEMContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DBConnection")));
 
 
->>>>>>> e6ffa14f78348e22e200b856db44922a96e4e891
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.Cookie.Name = "auth_token";
+        options.LoginPath = "/login";
+        options.Cookie.MaxAge = TimeSpan.FromMinutes(30);
+        options.AccessDeniedPath = "/access_denied";
+    });
+
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
@@ -29,7 +37,9 @@ builder.Services.AddRazorPages();
 builder.Services.AddRadzenCookieThemeService();
 builder.Services.AddScoped<DialogService>();
 builder.Services.AddScoped<NotificationService>();
-
+builder.Services.AddAuthorization();
+builder.Services.AddCascadingAuthenticationState();
+builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
@@ -42,7 +52,8 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();    
+app.UseAuthorization(); 
 
 app.UseStaticFiles();
 app.UseAntiforgery();

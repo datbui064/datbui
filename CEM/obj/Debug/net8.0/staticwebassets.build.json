@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r5ndTnzFx6XGVRZg9YbhbFHXR0EepISqiIEbSIP9w8M=",
+  "Hash": "LmUbvFp4UvPCzP2oSdD/V8XvO4m8gEIY8DldiDWvrOU=",
   "Source": "CEM",
   "BasePath": "_content/CEM",
   "Mode": "Default",
@@ -794,6 +794,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\site.js",
+      "SourceId": "CEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\",
+      "BasePath": "_content/CEM",
+      "RelativePath": "site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.js"
     }
   ]
 }

@@ -30,6 +30,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Layout/HomeLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcSG9tZUxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,8 +46,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Test.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUZXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Upload.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVcGxvYWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Pages/WordView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXb3JkVmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Components/Routes.razor]
@@ -74,26 +90,26 @@ build_metadata.AdditionalFiles.CssScope = b-4008i97kd2
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-olg59demgu
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Views/DangNhaps/Create.cshtml]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Views/DangNhaps/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Views/DangNhaps/Delete.cshtml]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Views/DangNhaps/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Views/DangNhaps/Details.cshtml]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Views/DangNhaps/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Views/DangNhaps/Edit.cshtml]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Views/DangNhaps/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Views/DangNhaps/Index.cshtml]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Views/DangNhaps/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/DUAN/datbui/CEM/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ADMIN/OneDrive/Máy tính/B10D55/datbui/CEM/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

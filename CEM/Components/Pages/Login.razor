@@ -3,7 +3,17 @@
 
 
 @using CEM.Components.Layout
+@using CEM.Models
+@using Microsoft.AspNetCore.Authentication.Cookies
 @using Radzen.Blazor
+@using System.Security.Claims
+@using Microsoft.AspNetCore.Authentication;
+@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor HttpContextAccessor
+
+@inject NavigationManager navigationManager
+@inject CEMContext cemDbContext
+
 
 
 
@@ -12,20 +22,24 @@
 <h3>Đăng Nhập</h3>
 
 <div class="login-container">
-    <EditForm Model="loginModel" OnValidSubmit="HandleValidSubmit">
+    <EditForm Model="@LoginModel" OnValidSubmit="Authenticate" FormName="LoginForm">
         <DataAnnotationsValidator />
         <ValidationSummary />
 
         <div class="form-group">
-            <label for="email">Email hoặc Số điện thoại</label>
-            <InputText id="email" @bind-Value="loginModel.Email" class="form-control" required />
+            <label> User Name</label>
+            <InputText @bind-Value="LoginModel.UserName" class="form-control" placeholder="UserName" />
+            <ValidationMessage For="() =>LoginModel.UserName"/>
         </div>
 
         <div class="form-group">
             <label for="password">Mật Khẩu</label>
-            <InputText id="password" @bind-Value="loginModel.Password" type="password" class="form-control" required />
+            <InputText id="password" @bind-Value="LoginModel.Password" type="password" class="form-control" />
+            <ValidationMessage For="() =>LoginModel.Password" />
         </div>
-
+        <div> 
+            <span> @erroMes</span>
+        </div>
         <button type="submit" class="btn btn-primary">Đăng Nhập</button>
 
         <div class="forgot-password">
@@ -35,18 +49,33 @@
 </div>
 
 @code {
-    private LoginModel loginModel = new LoginModel();
+    [CascadingParameter]
+    public HttpContent? HttpContent { get; set; }
+    [SupplyParameterFromForm]
 
-    private async Task HandleValidSubmit()
+    public LoginView LoginModel { get; set; } = new();
+    private string? erroMes;
+    private async Task Authenticate()
     {
-        // Xử lý đăng nhập ở đây
-    }
+        var user = cemDbContext.Users.Where(x => x.UserName == LoginModel.UserName).FirstOrDefault();
+        if(user is null || user.Password != LoginModel.Password)
+        {
+            erroMes = "Invalid UserName and Password";
+            return;
+        }
+        var claims = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name,LoginModel.UserName),
+            new Claim(ClaimTypes.Role,user.Role)
 
-    private class LoginModel
-    {
-        public string Email { get; set; }
-        public string Password { get; set; }
+        };
+        var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+        var principal = new ClaimsPrincipal(identity);
+        await HttpContextAccessor.HttpContext.SignInAsync(principal);
+        navigationManager.NavigateTo("/");
     }
 }
+
 
 

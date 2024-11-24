@@ -1,15 +1,21 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CEM.Models
 {
+    [Table("User")]
     public class User
     {
-        
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; } // Nên mã hóa mật khẩu trước khi lưu
-        [NotMapped]
-        public string ConfirmPassword { get; set; }
+
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Column("user_name")]
+        public string? UserName { get; set; }
+
+        [Column("password")]
+        public string? Password { get; set; }
+
+        [Column("role")]
+        public string? Role { get; set; }
     }
 }
