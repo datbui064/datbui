@@ -1,6 +1,7 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css",
       "PackagePath": "staticwebassets\\CEM.bundle.scp.css"
     },
@@ -18,7 +19,30 @@
     },
     {
       "Id": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\favicon.png",
+=======
+      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CEM.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\favicon.png",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\site.js",
+      "PackagePath": "staticwebassets\\site.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CEM.Microsoft.AspNetCore.StaticWebAssets.props",

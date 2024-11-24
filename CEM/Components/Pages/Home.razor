@@ -2,69 +2,267 @@
 @using Radzen
 @using Radzen.Blazor
 
-<RadzenStack Gap="2rem" AlignItems="AlignItems.Center" class="rz-p-12">
-    <RadzenCard Variant="Variant.Outlined" Style="width: 100%; max-width: 600px;">
-        <RadzenStack Orientation="Orientation.Vertical" AlignItems="AlignItems.Start" Gap="1.5rem">
-            <h2 style="text-align: center;">Cấu hình Menu</h2>
-            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" Gap="1.5rem">
-                <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" Gap="0.5rem;">
-                    <RadzenLabel Text="Kiểu hiển thị:" Component="DropDown1" />
-                    <RadzenSelectBar @bind-Value="@DisplayStyle" TextProperty="Text" ValueProperty="Value" Name="DropDown1"
-                                    Data="@(Enum.GetValues(typeof(MenuItemDisplayStyle)).Cast<MenuItemDisplayStyle>().Select(t => new { Text = $"{t}", Value = t }))" Size="ButtonSize.Small" />
-                </RadzenStack>
-                <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" Gap="0.5rem;">
-                    <RadzenCheckBox @bind-Value="@isShowArrow" Name="CheckBox2" TValue="bool" />
-                    <RadzenLabel Text="Hiển thị mũi tên" Component="CheckBox2" />
-                </RadzenStack>
-                <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" Gap="0.5rem;">
-                    <RadzenCheckBox @bind-Value="@changeOnOver" Name="CheckBox3" TValue="bool" />
-                    <RadzenLabel Text="Thay đổi kiểu khi di chuột" Component="CheckBox3" />
-                </RadzenStack>
-            </RadzenStack>
-        </RadzenStack>
-    </RadzenCard>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thêm mới hồ sơ thu thập</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            background-color: #f0f2f5;
+            font-family: Arial, sans-serif;
+        }
 
-    <RadzenPanelMenu DisplayStyle="@DisplayStyle" ShowArrow="@isShowArrow" Multiple="false"
-                     @onmouseover="@(args => { if (changeOnOver) { DisplayStyle = MenuItemDisplayStyle.IconAndText; } })"
-                     @onmouseout="@(args => { if (changeOnOver) { DisplayStyle = MenuItemDisplayStyle.Icon; } })">
-        <RadzenPanelMenuItem Text="Chung" Icon="home">
-            <RadzenPanelMenuItem Text="Nút" Path="buttons" Icon="account_circle"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Menu" Path="menu" Icon="line_weight"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="FileInput" Path="fileinput" Icon="attach_file"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Hộp thoại" Path="dialog" Icon="perm_media"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Thông báo" Path="notification" Icon="announcement"></RadzenPanelMenuItem>
-        </RadzenPanelMenuItem>
+        .container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: auto;
+        }
 
-        <RadzenPanelMenuItem Text="Đầu vào" Icon="payment">
-            <RadzenPanelMenuItem Text="CheckBox" Path="checkbox" Icon="check_circle"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="TextBox" Path="textbox" Icon="input"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="TextArea" Path="textarea" Icon="description"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Mật khẩu" Path="password" Icon="payment"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Số" Path="numeric" Icon="aspect_ratio"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Chọn ngày" Path="datepicker" Icon="date_range"></RadzenPanelMenuItem>
-        </RadzenPanelMenuItem>
+        h1 {
+            color: #007bff;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5rem;
+        }
 
-        <RadzenPanelMenuItem Text="Dữ liệu" Icon="save">
-            <RadzenPanelMenuItem Text="DataGrid" Path="datagrid" Icon="grid_on"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="DataList" Path="datalist" Icon="list"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="DropDown" Path="dropdown" Icon="dns"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="DropDownDataGrid" Path="dropdown-datagrid" Icon="receipt"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="ListBox" Path="listbox" Icon="view_list"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="TemplateForm" Path="templateform" Icon="line_style"></RadzenPanelMenuItem>
-        </RadzenPanelMenuItem>
+        .form-group label {
+            font-weight: bold;
+        }
 
-        <RadzenPanelMenuItem Text="Containers" Icon="account_box">
-            <RadzenPanelMenuItem Text="Tabs" Path="tabs" Icon="tab"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Panel" Path="panel" Icon="content_paste"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Fieldset" Path="fieldset" Icon="account_balance_wallet"></RadzenPanelMenuItem>
-            <RadzenPanelMenuItem Text="Card" Path="card" Icon="line_style"></RadzenPanelMenuItem>
-        </RadzenPanelMenuItem>
-    </RadzenPanelMenu>
-</RadzenStack>
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
 
-@code {
-    MenuItemDisplayStyle DisplayStyle = MenuItemDisplayStyle.IconAndText;
+            .btn-primary:hover {
+                background-color: #0056b3;
+                border-color: #0056b3;
+            }
 
-    bool isShowArrow = true;
-    bool changeOnOver;
-}
+        .modal-header {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .table th {
+            background-color: #f8f9fa;
+        }
+
+        .table td {
+            vertical-align: middle;
+        }
+
+        .input-group {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container my-5">
+        <h1>Thêm mới hồ sơ thu thập</h1>
+        <form id="form">
+            <div class="form-group">
+                <label for="name">Tên người nhập</label>
+                <input type="text" class="form-control" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="code">Mã</label>
+                <input type="text" class="form-control" id="code" name="code" required>
+            </div>
+            <div class="form-group">
+                <label for="decision-number">Số quyết định</label>
+                <input type="text" class="form-control" id="decision-number" name="decision-number" required>
+            </div>
+            <div class="form-group">
+                <label for="signer">Người ký</label>
+                <input type="text" class="form-control" id="signer" name="signer" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="type">Hình thức trú</label>
+                <select class="form-control" id="type" name="type" required>
+                    <option value="luu-tru-co-quan">Lưu trú cơ quan</option>
+                    <option value="luu-tru-lich-su">Lưu trú lịch sử</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <table class="table table-bordered" id="accommodation-table">
+                    <thead>
+                        <tr>
+                            <th>Hình thức trú</th>
+                            <th>Thông tin chi tiết</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td id="accommodation-type"></td>
+                            <td>
+                                <input type="text" class="form-control" id="accommodation-details" name="accommodation-details">
+                                <button type="button" class="btn btn-primary mt-2" data-toggle="modal" data-target="#accommodation-modal">Thêm</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="form-group">
+                <label for="file-link">Folder chứa tài liệu</label>
+                <div class="input-group">
+                    <input type="text" class="form-control" id="file-link" name="file-link" required>
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="button" id="open-folder">Mở folder</button>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Submit</button>
+        </form>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="accommodation-modal" tabindex="-1" role="dialog" aria-labelledby="accommodation-modal-label" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="accommodation-modal-label">Thêm thông tin hình thức trú</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="accommodation-form">
+                        <div class="form-group">
+                            <label for="accommodation-name">Tên</label>
+                            <input type="text" class="form-control" id="accommodation-name" name="accommodation-name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="major-code">Mã ngành</label>
+                            <input type="text" class="form-control" id="major-code" name="major-code" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="start-date">Ngày bắt đầu</label>
+                            <input type="date" class="form-control" id="start-date" name="start-date" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="end-date">Ngày kết thúc</label>
+                            <input type="date" class="form-control" id="end-date" name="end-date" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="lesson-count">Số môn học</label>
+                            <input type="number" class="form-control" id="lesson-count" name="lesson-count" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="credit-count">Số tín chỉ</label>
+                            <input type="number" class="form-control" id="credit-count" name="credit-count" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="output-requirement">Yêu cầu đầu ra</label>
+                            <textarea class="form-control" id="output-requirement" name="output-requirement"></textarea>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-primary" id="save-accommodation">Lưu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Xử lý form submission, validation, mở folder khi click vào nút "Mở folder"
+        document.getElementById('open-folder').addEventListener('click', function (event) {
+            event.preventDefault();
+            var folderLink = document.getElementById('file-link').value;
+            window.open(folderLink, '_blank');
+        });
+
+        // Cập nhật thông tin hình thức trú
+        var accommodationTypeElement = document.getElementById('accommodation-type');
+        var accommodationDetailsElement = document.getElementById('accommodation-details');
+        var typeSelect = document.getElementById('type');
+        typeSelect.addEventListener('change', function () {
+            var selectedOption = typeSelect.options[typeSelect.selectedIndex];
+            accommodationTypeElement.textContent = selectedOption.text;
+            accommodationDetailsElement.value = '';
+        });
+
+        // Xử lý lưu thông tin hình thức trú
+        document.getElementById('save-accommodation').addEventListener('click', function () {
+            var name = document.getElementById('accommodation-name').value;
+            var majorCode = document.getElementById('major-code').value;
+            var startDate = document.getElementById('start-date').value;
+            var endDate = document.getElementById('end-date').value;
+            var lessonCount = document.getElementById('lesson-count').value;
+            var creditCount = document.getElementById('credit-count').value;
+            var outputRequirement = document.getElementById('output-requirement').value;
+
+            // Logic to save the accommodation info goes here
+            console.log({
+                name,
+                majorCode,
+                startDate,
+                endDate,
+                lessonCount,
+                creditCount,
+                outputRequirement
+            });
+
+            // Close the modal after saving
+            $('#accommodation-modal').modal('hide');
+        });
+
+        // Xử lý form submission
+        document.getElementById('form').addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            // Lấy dữ liệu từ form
+            var name = document.getElementById('name').value;
+            var code = document.getElementById('code').value;
+            var decisionNumber = document.getElementById('decision-number').value;
+            var signer = document.getElementById('signer').value;
+            var email = document.getElementById('email').value;
+            var type = document.getElementById('type').value;
+            var accommodationDetails = document.getElementById('accommodation-details').value;
+            var fileLink = document.getElementById('file-link').value;
+
+            // Tạo trang mới với danh sách thông tin đã nhập
+            var newWindow = window.open();
+            newWindow.document.write(`
+                <html>
+                  <head>
+                    <title>Thông tin hồ sơ</title>
+                    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+                  </head>
+                  <body>
+                    <div class="container mt-5">
+                      <h1>Thông tin hồ sơ thu thập</h1>
+                      <ul class="list-group">
+                        <li class="list-group-item"><strong>Tên người nhập:</strong> ${name}</li>
+                        <li class="list-group-item"><strong>Mã:</strong> ${code}</li>
+                        <li class="list-group-item"><strong>Số quyết định:</strong> ${decisionNumber}</li>
+                        <li class="list-group-item"><strong>Người ký:</strong> ${signer}</li>
+                        <li class="list-group-item"><strong>Email:</strong> ${email}</li>
+                        <li class="list-group-item"><strong>Hình thức trú:</strong> ${type}</li>
+                        <li class="list-group-item"><strong>Thông tin chi tiết:</strong> ${accommodationDetails}</li>
+                        <li class="list-group-item"><strong>Folder chứa tài liệu:</strong> <a href="${fileLink}" target="_blank">${fileLink}</a></li>
+                      </ul>
+                    </div>
+                  </body>
+                </html>
+              `);
+            newWindow.document.close();
+        });
+    </script>
+</body>
+</html>

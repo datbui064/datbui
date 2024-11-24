@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "h3kEP+LvqnCeP6mRHlDgdweG6zCJZwne5czpcvrQnZ4=",
+=======
+  "Hash": "LmUbvFp4UvPCzP2oSdD/V8XvO4m8gEIY8DldiDWvrOU=",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
   "Source": "CEM",
   "BasePath": "_content/CEM",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "CEM\\wwwroot",
       "Source": "CEM",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/CEM",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/dark.css",
       "AssetKind": "All",
@@ -33,6 +48,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark.css"
     },
     {
@@ -40,6 +56,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/dark-base.css",
       "AssetKind": "All",
@@ -52,6 +77,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark-base.css"
     },
     {
@@ -59,6 +85,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/dark-wcag.css",
       "AssetKind": "All",
@@ -71,6 +106,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark-wcag.css"
     },
     {
@@ -78,6 +114,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\dark-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/default.css",
       "AssetKind": "All",
@@ -90,6 +135,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default.css"
     },
     {
@@ -97,6 +143,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/default-base.css",
       "AssetKind": "All",
@@ -109,6 +164,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default-base.css"
     },
     {
@@ -116,6 +172,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/default-wcag.css",
       "AssetKind": "All",
@@ -128,6 +193,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default-wcag.css"
     },
     {
@@ -135,6 +201,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\default-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic.css",
       "AssetKind": "All",
@@ -147,6 +222,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic.css"
     },
     {
@@ -154,6 +230,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic-base.css",
       "AssetKind": "All",
@@ -166,6 +251,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-base.css"
     },
     {
@@ -173,6 +259,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic-dark.css",
       "AssetKind": "All",
@@ -185,6 +280,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark.css"
     },
     {
@@ -192,6 +288,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic-dark-base.css",
       "AssetKind": "All",
@@ -204,6 +309,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark-base.css"
     },
     {
@@ -211,6 +317,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic-dark-wcag.css",
       "AssetKind": "All",
@@ -223,6 +338,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark-wcag.css"
     },
     {
@@ -230,6 +346,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-dark-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/humanistic-wcag.css",
       "AssetKind": "All",
@@ -242,6 +367,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-wcag.css"
     },
     {
@@ -249,6 +375,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\humanistic-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material.css",
       "AssetKind": "All",
@@ -261,6 +396,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material.css"
     },
     {
@@ -268,6 +404,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-base.css",
       "AssetKind": "All",
@@ -280,6 +425,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-base.css"
     },
     {
@@ -287,6 +433,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-dark.css",
       "AssetKind": "All",
@@ -299,6 +454,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark.css"
     },
     {
@@ -306,6 +462,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-dark-base.css",
       "AssetKind": "All",
@@ -318,6 +483,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark-base.css"
     },
     {
@@ -325,6 +491,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-dark-wcag.css",
       "AssetKind": "All",
@@ -337,6 +512,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark-wcag.css"
     },
     {
@@ -344,6 +520,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-dark-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/material-wcag.css",
       "AssetKind": "All",
@@ -356,6 +541,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-wcag.css"
     },
     {
@@ -363,6 +549,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\material-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software.css",
       "AssetKind": "All",
@@ -375,6 +570,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software.css"
     },
     {
@@ -382,6 +578,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-base.css",
       "AssetKind": "All",
@@ -394,6 +599,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-base.css"
     },
     {
@@ -401,6 +607,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-dark.css",
       "AssetKind": "All",
@@ -413,6 +628,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark.css"
     },
     {
@@ -420,6 +636,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-dark-base.css",
       "AssetKind": "All",
@@ -432,6 +657,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark-base.css"
     },
     {
@@ -439,6 +665,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-dark-wcag.css",
       "AssetKind": "All",
@@ -451,6 +686,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark-wcag.css"
     },
     {
@@ -458,6 +694,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-dark-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/software-wcag.css",
       "AssetKind": "All",
@@ -470,6 +715,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-wcag.css"
     },
     {
@@ -477,6 +723,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\software-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard.css",
       "AssetKind": "All",
@@ -489,6 +744,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard.css"
     },
     {
@@ -496,6 +752,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-base.css",
       "AssetKind": "All",
@@ -508,6 +773,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-base.css"
     },
     {
@@ -515,6 +781,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-dark.css",
       "AssetKind": "All",
@@ -527,6 +802,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark.css"
     },
     {
@@ -534,6 +810,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-dark-base.css",
       "AssetKind": "All",
@@ -546,6 +831,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark-base.css"
     },
     {
@@ -553,6 +839,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark-base.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-dark-wcag.css",
       "AssetKind": "All",
@@ -565,6 +860,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark-wcag.css"
     },
     {
@@ -572,6 +868,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-dark-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-wcag.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "css/standard-wcag.css",
       "AssetKind": "All",
@@ -584,6 +889,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-wcag.css"
     },
     {
@@ -591,6 +897,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\css\\standard-wcag.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\MaterialSymbolsOutlined.woff2",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/MaterialSymbolsOutlined.woff2",
       "AssetKind": "All",
@@ -603,6 +918,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\MaterialSymbolsOutlined.woff2"
     },
     {
@@ -610,6 +926,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\MaterialSymbolsOutlined.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\RobotoFlex.woff2",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/RobotoFlex.woff2",
       "AssetKind": "All",
@@ -622,6 +947,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\RobotoFlex.woff2"
     },
     {
@@ -629,6 +955,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\RobotoFlex.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\SourceSans3VF-Italic.ttf.woff2",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSans3VF-Italic.ttf.woff2",
       "AssetKind": "All",
@@ -641,6 +976,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\SourceSans3VF-Italic.ttf.woff2"
     },
     {
@@ -648,6 +984,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\SourceSans3VF-Italic.ttf.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\SourceSans3VF-Upright.ttf.woff2",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "fonts/SourceSans3VF-Upright.ttf.woff2",
       "AssetKind": "All",
@@ -660,6 +1005,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\SourceSans3VF-Upright.ttf.woff2"
     },
     {
@@ -667,6 +1013,15 @@
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\fonts\\SourceSans3VF-Upright.ttf.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\Radzen.Blazor.js",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/Radzen.Blazor",
       "RelativePath": "Radzen.Blazor.js",
       "AssetKind": "All",
@@ -679,6 +1034,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\Radzen.Blazor.js"
     },
     {
@@ -686,6 +1042,15 @@
       "SourceId": "CEM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\.nuget\\packages\\radzen.blazor\\5.6.3\\staticwebassets\\Radzen.Blazor.js"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CEM.styles.css",
+      "SourceId": "CEM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/CEM",
       "RelativePath": "CEM.styles.css",
       "AssetKind": "All",
@@ -698,6 +1063,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CEM.styles.css"
     },
     {
@@ -705,6 +1071,15 @@
       "SourceId": "CEM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CEM.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css",
+      "SourceId": "CEM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/CEM",
       "RelativePath": "CEM.bundle.scp.css",
       "AssetKind": "All",
@@ -717,6 +1092,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css"
     },
     {
@@ -724,6 +1100,15 @@
       "SourceId": "CEM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\app.css",
+      "SourceId": "CEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/CEM",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -739,10 +1124,17 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "CEM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "CEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/CEM",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -758,10 +1150,17 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CEM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "CEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/CEM",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -777,10 +1176,17 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\favicon.png",
       "SourceId": "CEM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\favicon.png",
+      "SourceId": "CEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\",
+>>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
       "BasePath": "_content/CEM",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -794,6 +1200,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\site.js",
+      "SourceId": "CEM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\",
+      "BasePath": "_content/CEM",
+      "RelativePath": "site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.js"
     }
   ]
 }

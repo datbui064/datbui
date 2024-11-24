@@ -1,0 +1,28 @@
+﻿@page "/file-upload"
+@using Microsoft.AspNetCore.Components.Forms
+@inject IHostEnvironment Environment
+
+<h3>Upload File Word</h3>
+
+<InputFile OnChange="HandleFileSelected" accept=".docx" />
+@if (uploadResult != null)
+{
+    <p>@uploadResult</p>
+}
+
+@code {
+    private string uploadResult;
+
+    private async Task HandleFileSelected(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+        var path = Path.Combine(Environment.ContentRootPath, "wwwroot", "uploads", file.Name);
+
+        using (var stream = new FileStream(path, FileMode.Create))
+        {
+            await file.OpenReadStream().CopyToAsync(stream);
+        }
+
+        uploadResult = $"File {file.Name} đã được upload thành công!";
+    }
+}

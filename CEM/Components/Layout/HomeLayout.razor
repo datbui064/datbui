@@ -1,0 +1,53 @@
+﻿@inherits LayoutComponentBase
+
+<div class="sidebar">
+    <h2>Thanh điều hướng</h2>
+    <ul>
+        <li><a href="/">Trang chủ</a></li>
+        <li><a href="/about">Giới thiệu</a></li>
+        <li><a href="/contact">Liên hệ</a></li>
+    </ul>
+</div>
+
+<div class="main-content">
+    @Body
+</div>
+
+<style>
+    .container {
+        margin: 20px;
+    }
+    .sidebar {
+        width: 200px;
+        float: left;
+        background-color: #f4f4f4;
+        padding: 15px;
+        border-right: 1px solid #ddd;
+    }
+    .sidebar h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .sidebar ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    .sidebar ul li {
+        margin: 10px 0;
+    }
+    .sidebar ul li a {
+        text-decoration: none;
+        color: #333;
+        padding: 8px;
+        display: block;
+        border-radius: 4px;
+    }
+    .sidebar ul li a:hover {
+        background-color: #007bff;
+        color: white;
+    }
+    .main-content {
+        margin-left: 220px;
+        padding: 15px;
+    }
+</style>

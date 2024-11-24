@@ -1,69 +1,57 @@
-﻿@page "/auth/register"
+﻿@page "/register"
+@using CEM.Models
+@inject CEMContext dbContext
 
-@layout AuthLayout
-@using CEM.Components.Layout
-@using PlannerApp.Shared.Models
-@using Radzen.Blazor
-@using Radzen
+<h3>Đăng Ký Người Dùng</h3>
 
+<EditForm Model="@user" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
 
-
-<div class="row">
-    <div class="col-12">
-        <h2>Create New Account</h2>
-        <EditForm Model="model" OnValidSubmit="RegisterUser">
-            <RadzenCard>
-                <DataAnnotationsValidator />
-                <ValidationSummary />
-            
-                <label><b>First Name </b></label>
-                <br />
-                <RadzenTextBox  @bind-Value="model.FirstName" class="input-field"></RadzenTextBox>
-                
-                 <br />
-                <br />
-                
-
-                <label><b>Last Name</b></label>
-                <br />
-                <RadzenTextBox @bind-Value="model.LastName" class="input-field"></RadzenTextBox>
-               
-                <br />
-                <br />
-                <label><b>Email </b></label>
-                <br />
-                <RadzenTextBox @bind-Value="model.Email" class="input-field"></RadzenTextBox>
-               
-                <br />
-                <br />
-                <label><b>Password </b></label>
-                <br />
-                <RadzenPassword @bind-Value="model.Password" class="input-field"></RadzenPassword>
-                
-                <br />
-                <br />
-                <label><b>Confirm Password </b></label>
-                <br />
-                <RadzenPassword @bind-Value="model.ComfirmPassword" class="input-field"></RadzenPassword>
-                
-            </RadzenCard>
-                <hr />
-                
-                <RadzenButton ButtonType="Radzen.ButtonType.Submit" Text="Register"
-                          ButtonStyle="Radzen.ButtonStyle.Primary" class="botton-register" />
-                
-                <RadzenButton  ButtonType="Radzen.ButtonType.Button" Text="Login"
-                              ButtonStyle="Radzen.ButtonStyle.Secondary" class="botton-register" />
-            
-        </EditForm>
+    <div class="mb-3">
+        <label for="username" class="form-label">Tên người dùng:</label>
+        <InputText id="username" @bind-Value="user.Username" class="form-control" />
+        <ValidationMessage For="@(() => user.Username)" />
     </div>
-</div>
+
+    <div class="mb-3">
+        <label for="email" class="form-label">Email:</label>
+        <InputText id="email" @bind-Value="user.Email" type="email" class="form-control" />
+        <ValidationMessage For="@(() => user.Email)" />
+    </div>
+
+    <div class="mb-3">
+        <label for="password" class="form-label">Mật khẩu:</label>
+        <InputText id="password" @bind-Value="user.Password" type="password" class="form-control" />
+        <ValidationMessage For="@(() => user.Password)" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Đăng Ký</button>
+</EditForm>
 
 @code {
-    private RegisterRequest model = new RegisterRequest();
+    private UserRegistrationModel user = new UserRegistrationModel();
 
-    private void RegisterUser()
+    private async Task HandleValidSubmit()
     {
-        
+        var newUser = new UserRegistrationModel
+            {
+                Username = user.Username,
+                Email = user.Email,
+                Password = user.Password // Thực tế nên mã hóa mật khẩu trước khi lưu
+            };
+
+      //  dbContext.Users.Add(newUser);
+       // await dbContext.SaveChangesAsync();
+
+        // Chuyển hướng hoặc thông báo thành công
+        Console.WriteLine($"Đăng ký thành công cho: {user.Username}");
+    }
+
+    public class UserRegistrationModel
+    {
+        public string Username { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
     }
 }
