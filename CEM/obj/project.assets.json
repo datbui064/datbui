@@ -8201,37 +8201,19 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\nguye\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\FPTSHOP\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\CEM.csproj",
       "projectName": "CEM",
       "projectPath": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\CEM.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
-      "projectName": "CEM",
-      "projectPath": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
-      "packagesPath": "C:\\Users\\FPTSHOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\obj\\",
->>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
       "projectStyle": "PackageReference",
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\FPTSHOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8246,13 +8228,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-<<<<<<< HEAD
             "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
               "projectPath": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj"
-=======
-            "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
-              "projectPath": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj"
->>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
             }
           }
         }
@@ -8317,13 +8294,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\CEM.csproj": {}
   },
   "projects": {
@@ -13,27 +12,9 @@
         "projectPath": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\CEM.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\",
-=======
-    "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
-        "projectName": "CEM",
-        "projectPath": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\CEM.csproj",
-        "packagesPath": "C:\\Users\\FPTSHOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\obj\\",
->>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
         "projectStyle": "PackageReference",
         "configFilePaths": [
-<<<<<<< HEAD
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\FPTSHOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,13 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-<<<<<<< HEAD
               "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
                 "projectPath": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj"
-=======
-              "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
-                "projectPath": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj"
->>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
               }
             }
           }
@@ -120,19 +96,11 @@
         }
       }
     },
-<<<<<<< HEAD
     "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
       "restore": {
         "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj",
         "projectName": "PlannerApp.Shared",
         "projectPath": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj",
-=======
-    "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj",
-        "projectName": "PlannerApp.Shared",
-        "projectPath": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\PlannerApp.Shared\\PlannerApp.Shared.csproj",
->>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
         "frameworks": {
           "net472": {
             "projectReferences": {}
