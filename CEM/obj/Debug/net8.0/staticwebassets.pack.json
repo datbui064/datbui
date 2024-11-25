@@ -2,6 +2,7 @@
   "Files": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Id": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css",
       "PackagePath": "staticwebassets\\CEM.bundle.scp.css"
     },
@@ -21,27 +22,34 @@
       "Id": "C:\\Users\\nguye\\OneDrive\\Attachments\\Desktop\\DUANNEW\\datbui\\CEM\\wwwroot\\favicon.png",
 =======
       "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css",
+=======
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CEM.bundle.scp.css",
+>>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
       "PackagePath": "staticwebassets\\CEM.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\app.css",
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\favicon.png",
 >>>>>>> b6d6b408a34c50ca256cf9dfbab90192cb7880a7
+=======
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\favicon.png",
+>>>>>>> 1485be320978d76d19efda0b4c0b1b76082696bc
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\B10D55\\datbui\\CEM\\wwwroot\\site.js",
+      "Id": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\wwwroot\\site.js",
       "PackagePath": "staticwebassets\\site.js"
     },
     {

@@ -30,6 +30,7 @@
         h1 {
             color: #007bff;
             text-align: center;
+            margin-right: 40px;
             margin-bottom: 30px;
             font-size: 2.5rem;
         }
@@ -79,12 +80,7 @@
                 <input type="text" class="form-control" id="code" name="code" required>
             </div>
             <div class="form-group">
-                <label for="decision-number">Số quyết định</label>
-                <input type="text" class="form-control" id="decision-number" name="decision-number" required>
-            </div>
-            <div class="form-group">
-                <label for="signer">Người ký</label>
-                <input type="text" class="form-control" id="signer" name="signer" required>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#decision-modal">Thêm thông tin số quyết định</button>
             </div>
             <div class="form-group">
                 <label for="email">Email</label>
@@ -103,26 +99,25 @@
                         <tr>
                             <th>Hình thức trú</th>
                             <th>Thông tin chi tiết</th>
+                            <th>Hành động</th>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody id="accommodation-body">
                         <tr>
                             <td id="accommodation-type"></td>
                             <td>
                                 <input type="text" class="form-control" id="accommodation-details" name="accommodation-details">
                                 <button type="button" class="btn btn-primary mt-2" data-toggle="modal" data-target="#accommodation-modal">Thêm</button>
                             </td>
+                            <td></td>
                         </tr>
                     </tbody>
                 </table>
             </div>
             <div class="form-group">
-                <label for="file-link">Folder chứa tài liệu</label>
-                <div class="input-group">
-                    <input type="text" class="form-control" id="file-link" name="file-link" required>
-                    <div class="input-group-append">
-                        <button class="btn btn-outline-secondary" type="button" id="open-folder">Mở folder</button>
-                    </div>
+                <div class="form-group">
+                    <label for="file-upload">Chọn tệp bài giảng</label>
+                    <input type="file" class="form-control" id="file-upload" name="file-upload" required>
                 </div>
             </div>
             <button type="submit" class="btn btn-primary btn-block">Submit</button>
@@ -130,6 +125,42 @@
     </div>
 
     <!-- Modal -->
+    @* Thêm Quyết Định *@
+    <div class="modal fade" id="decision-modal" tabindex="-1" role="dialog" aria-labelledby="decision-modal-label" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="decision-modal-label">Thêm thông tin số quyết định</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="decision-form">
+                        <div class="form-group">
+                            <label for="decision-number">Số quyết định</label>
+                            <input type="text" class="form-control" id="decision-number" name="decision-number" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="signer">Người ký</label>
+                            <input type="text" class="form-control" id="signer" name="signer" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="file-upload">Chọn tệp quyết định</label>
+                            <input type="file" class="form-control" id="file-upload" name="file-upload" required>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-primary" id="save-decision">Lưu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @*  Hết *@
+
     <div class="modal fade" id="accommodation-modal" tabindex="-1" role="dialog" aria-labelledby="accommodation-modal-label" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -180,24 +211,37 @@
     </div>
 
     <script>
-        // Xử lý form submission, validation, mở folder khi click vào nút "Mở folder"
-        document.getElementById('open-folder').addEventListener('click', function (event) {
-            event.preventDefault();
-            var folderLink = document.getElementById('file-link').value;
-            window.open(folderLink, '_blank');
+        // Khởi tạo danh sách
+        var decisionList = [];
+        var accommodationList = [];
+
+        // Lưu thông tin quyết định
+        document.getElementById('save-decision').addEventListener('click', function () {
+            var decisionNumber = document.getElementById('decision-number').value;
+            var signer = document.getElementById('signer').value;
+
+            // Kiểm tra thông tin nhập vào
+            if (!decisionNumber || !signer) {
+                alert("Vui lòng điền đầy đủ thông tin số quyết định và người ký.");
+                return;
+            }
+
+            // Lưu vào danh sách quyết định
+            decisionList.push({
+                number: decisionNumber,
+                signer: signer
+            });
+
+            console.log('Số quyết định:', decisionNumber);
+            console.log('Người ký:', signer);
+            console.log('Danh sách số quyết định:', decisionList);
+
+            // Đóng modal và reset form
+            $('#decision-modal').modal('hide');
+            document.getElementById('decision-form').reset();
         });
 
-        // Cập nhật thông tin hình thức trú
-        var accommodationTypeElement = document.getElementById('accommodation-type');
-        var accommodationDetailsElement = document.getElementById('accommodation-details');
-        var typeSelect = document.getElementById('type');
-        typeSelect.addEventListener('change', function () {
-            var selectedOption = typeSelect.options[typeSelect.selectedIndex];
-            accommodationTypeElement.textContent = selectedOption.text;
-            accommodationDetailsElement.value = '';
-        });
-
-        // Xử lý lưu thông tin hình thức trú
+        // Lưu thông tin hình thức trú
         document.getElementById('save-accommodation').addEventListener('click', function () {
             var name = document.getElementById('accommodation-name').value;
             var majorCode = document.getElementById('major-code').value;
@@ -207,20 +251,86 @@
             var creditCount = document.getElementById('credit-count').value;
             var outputRequirement = document.getElementById('output-requirement').value;
 
-            // Logic to save the accommodation info goes here
-            console.log({
-                name,
-                majorCode,
-                startDate,
-                endDate,
-                lessonCount,
-                creditCount,
-                outputRequirement
-            });
+            // Kiểm tra thông tin nhập vào
+            if (!name || !majorCode || !startDate || !endDate || !lessonCount || !creditCount) {
+                alert("Vui lòng điền đầy đủ thông tin hình thức trú.");
+                return;
+            }
 
-            // Close the modal after saving
+            // Kiểm tra xem có đang chỉnh sửa không
+            var index = document.getElementById('save-accommodation').getAttribute('data-index');
+            if (index !== null) {
+                // Cập nhật thông tin
+                accommodationList[index] = {
+                    name,
+                    majorCode,
+                    startDate,
+                    endDate,
+                    lessonCount,
+                    creditCount,
+                    outputRequirement
+                };
+            } else {
+                // Thêm mới thông tin
+                accommodationList.push({
+                    name,
+                    majorCode,
+                    startDate,
+                    endDate,
+                    lessonCount,
+                    creditCount,
+                    outputRequirement
+                });
+            }
+
+            // Cập nhật bảng thông tin
+            updateAccommodationTable();
+
+            // Đóng modal và reset form
             $('#accommodation-modal').modal('hide');
+            document.getElementById('accommodation-form').reset();
+            document.getElementById('save-accommodation').removeAttribute('data-index');
         });
+
+        // Hàm cập nhật bảng thông tin hình thức trú
+        function updateAccommodationTable() {
+            var tbody = document.getElementById('accommodation-body');
+            tbody.innerHTML = '';
+
+            accommodationList.forEach(function (item, index) {
+                var row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${item.name} (${item.majorCode})</td>
+                    <td>
+                        <strong>Ngày bắt đầu:</strong> ${item.startDate}<br>
+                        <strong>Ngày kết thúc:</strong> ${item.endDate}<br>
+                        <strong>Số môn học:</strong> ${item.lessonCount}<br>
+                        <strong>Số tín chỉ:</strong> ${item.creditCount}<br>
+                        <strong>Yêu cầu đầu ra:</strong> ${item.outputRequirement}
+                    </td>
+                    <td>
+                        <button class="btn btn-warning btn-sm" onclick="editAccommodation(${index})">Sửa</button>
+                    </td>
+                `;
+                tbody.appendChild(row);
+            });
+        }
+
+        // Chỉnh sửa thông tin hình thức trú
+        function editAccommodation(index) {
+            var item = accommodationList[index];
+            document.getElementById('accommodation-name').value = item.name;
+            document.getElementById('major-code').value = item.majorCode;
+            document.getElementById('start-date').value = item.startDate;
+            document.getElementById('end-date').value = item.endDate;
+            document.getElementById('lesson-count').value = item.lessonCount;
+            document.getElementById('credit-count').value = item.creditCount;
+            document.getElementById('output-requirement').value = item.outputRequirement;
+
+            // Lưu chỉ số để cập nhật
+            document.getElementById('save-accommodation').setAttribute('data-index', index);
+            $('#accommodation-modal').modal('show');
+        }
 
         // Xử lý form submission
         document.getElementById('form').addEventListener('submit', function (event) {
@@ -229,40 +339,66 @@
             // Lấy dữ liệu từ form
             var name = document.getElementById('name').value;
             var code = document.getElementById('code').value;
-            var decisionNumber = document.getElementById('decision-number').value;
-            var signer = document.getElementById('signer').value;
             var email = document.getElementById('email').value;
             var type = document.getElementById('type').value;
-            var accommodationDetails = document.getElementById('accommodation-details').value;
-            var fileLink = document.getElementById('file-link').value;
+
+            // Lấy thông tin quyết định từ danh sách
+            var decisionDetails = decisionList.map(decision => `
+                <li class="list-group-item">
+                    <strong>Số quyết định:</strong> ${decision.number}<br>
+                    <strong>Người ký:</strong> ${decision.signer}<br>
+                    <strong>Tệp quyết định:</strong> <a href="${decision.filePath}" download="${decision.fileName}">${decision.fileName}</a>
+                </li>
+            `).join('');
+
+            // Lấy tên tệp bài giảng đã chọn
+            var fileInput = document.getElementById('file-upload');
+            var fileName = fileInput.files.length > 0 ? fileInput.files[0].name : 'Chưa chọn tệp';
+            var filePath = URL.createObjectURL(fileInput.files[0]);
 
             // Tạo trang mới với danh sách thông tin đã nhập
             var newWindow = window.open();
             newWindow.document.write(`
                 <html>
-                  <head>
-                    <title>Thông tin hồ sơ</title>
-                    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-                  </head>
-                  <body>
-                    <div class="container mt-5">
-                      <h1>Thông tin hồ sơ thu thập</h1>
-                      <ul class="list-group">
-                        <li class="list-group-item"><strong>Tên người nhập:</strong> ${name}</li>
-                        <li class="list-group-item"><strong>Mã:</strong> ${code}</li>
-                        <li class="list-group-item"><strong>Số quyết định:</strong> ${decisionNumber}</li>
-                        <li class="list-group-item"><strong>Người ký:</strong> ${signer}</li>
-                        <li class="list-group-item"><strong>Email:</strong> ${email}</li>
-                        <li class="list-group-item"><strong>Hình thức trú:</strong> ${type}</li>
-                        <li class="list-group-item"><strong>Thông tin chi tiết:</strong> ${accommodationDetails}</li>
-                        <li class="list-group-item"><strong>Folder chứa tài liệu:</strong> <a href="${fileLink}" target="_blank">${fileLink}</a></li>
-                      </ul>
-                    </div>
-                  </body>
+                    <head>
+                        <title>Thông tin hồ sơ</title>
+                        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+                    </head>
+                    <body>
+                        <div class="container mt-5">
+                            <h1>Thông tin hồ sơ thu thập</h1>
+                            <ul class="list-group">
+                                <li class="list-group-item"><strong>Tên người nhập:</strong> ${name}</li>
+                                <li class="list-group-item"><strong>Mã:</strong> ${code}</li>
+                                <li class="list-group-item"><strong>Email:</strong> ${email}</li>
+                                <li class="list-group-item"><strong>Hình thức trú:</strong> ${type}</li>
+                                <li class="list-group-item"><strong>Thông tin quyết định:</strong>
+                                    <ul class="list-group">
+                                        ${decisionDetails}
+                                    </ul>
+                                </li>
+                                <li class="list-group-item"><strong>Tệp bài giảng:</strong> <a href="${filePath}" download="${fileName}">${fileName}</a></li>
+                                <li class="list-group-item"><strong>Thông tin chi tiết:</strong></li>
+                                <ul class="list-group">
+                                    ${accommodationList.map(item => `
+                                        <li class="list-group-item">
+                                            ${item.name} (${item.majorCode})<br>
+                                            <strong>Ngày bắt đầu:</strong> ${item.startDate}<br>
+                                            <strong>Ngày kết thúc:</strong> ${item.endDate}<br>
+                                            <strong>Số môn học:</strong> ${item.lessonCount}<br>
+                                            <strong>Số tín chỉ:</strong> ${item.creditCount}<br>
+                                            <strong>Yêu cầu đầu ra:</strong> ${item.outputRequirement}
+                                        </li>
+                                    `).join('')}
+                                </ul>
+                            </ul>
+                        </div>
+                    </body>
                 </html>
-              `);
+            `);
             newWindow.document.close();
         });
     </script>
+
 </body>
 </html>
