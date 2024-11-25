@@ -1,0 +1,1169 @@
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\appsettings.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.staticwebassets.runtime.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.exe
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.deps.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.runtimeconfig.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.pdb
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Humanizer.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.csproj.AssemblyReference.cache
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.AssemblyInfoInputs.cache
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.AssemblyInfo.cs
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.sourcelink.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.CEM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.build.CEM.props
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CEM.props
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CEM.props
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\bundle\CEM.styles.css
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\projectbundle\CEM.bundle.scp.css
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.csproj.Up2Date
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\refint\CEM.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.pdb
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.genruntimeconfig.cache
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\ref\CEM.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\CEM.staticwebassets.runtime.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\CEM.exe
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\CEM.deps.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\CEM.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\CEM.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\CEM.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.sourcelink.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.CEM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.build.CEM.props
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CEM.props
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CEM.props
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\bundle\CEM.styles.css
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\projectbundle\CEM.bundle.scp.css
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.csproj.Up2Date
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\refint\CEM.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\ref\CEM.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\AuthLayout.razor.rz.scp.css
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\PlannerApp.Shared.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\PlannerApp.Shared.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Auth\Register.razor.rz.scp.css
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\PlannerApp.Shared.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\PlannerApp.Shared.pdb
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\AuthLayout.razor.rz.scp.css
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Auth\Register.razor.rz.scp.css
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cache
+C:\Users\FPTSHOP\Desktop\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cache
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\OneDrive\Máy tính\B10D55\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\appsettings.Development.json
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\appsettings.json
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.staticwebassets.runtime.json
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.exe
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.deps.json
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.runtimeconfig.json
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\CEM.pdb
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Azure.Core.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Azure.Identity.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Humanizer.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Common.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\Radzen.Blazor.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.ClientModel.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.CodeDom.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Memory.Data.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Text.Json.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\PlannerApp.Shared.dll
+D:\WorkSpace\DUAN\datbui\CEM\bin\Debug\net8.0\PlannerApp.Shared.pdb
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.csproj.AssemblyReference.cache
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.AssemblyInfoInputs.cache
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.AssemblyInfo.cs
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.csproj.CoreCompileInputs.cache
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cache
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cs
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.sourcelink.json
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets.build.json
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets.development.json
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.CEM.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.build.CEM.props
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CEM.props
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CEM.props
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\AuthLayout.razor.rz.scp.css
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Auth\Register.razor.rz.scp.css
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\bundle\CEM.styles.css
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\scopedcss\projectbundle\CEM.bundle.scp.css
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.csproj.Up2Date
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.dll
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\refint\CEM.dll
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.pdb
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\CEM.genruntimeconfig.cache
+D:\WorkSpace\DUAN\datbui\CEM\obj\Debug\net8.0\ref\CEM.dll
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.dll
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\refint\CEM.dll
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.pdb
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\appsettings.Development.json
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\appsettings.json
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\CEM.staticwebassets.runtime.json
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\CEM.exe
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\CEM.deps.json
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\CEM.runtimeconfig.json
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\CEM.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\CEM.pdb
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Azure.Core.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Azure.Identity.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Humanizer.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Build.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.Common.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Radzen.Blazor.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.ClientModel.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.CodeDom.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Memory.Data.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Text.Json.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.csproj.AssemblyReference.cache
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.AssemblyInfoInputs.cache
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.AssemblyInfo.cs
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.csproj.CoreCompileInputs.cache
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cache
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cs
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\staticwebassets.build.json
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\staticwebassets.development.json
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\staticwebassets\msbuild.CEM.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\staticwebassets\msbuild.build.CEM.props
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CEM.props
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CEM.props
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\staticwebassets.pack.json
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\AuthLayout.razor.rz.scp.css
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Auth\Register.razor.rz.scp.css
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Login.razor.rz.scp.css
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\bundle\CEM.styles.css
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\projectbundle\CEM.bundle.scp.css
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.csproj.Up2Date
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.genruntimeconfig.cache
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\ref\CEM.dll

@@ -1,0 +1,57 @@
+﻿@page "/register"
+@using CEM.Models
+@inject CEMContext dbContext
+
+<h3>Đăng Ký Người Dùng</h3>
+
+<EditForm Model="@user" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label for="username" class="form-label">Tên người dùng:</label>
+        <InputText id="username" @bind-Value="user.Username" class="form-control" />
+        <ValidationMessage For="@(() => user.Username)" />
+    </div>
+
+    <div class="mb-3">
+        <label for="email" class="form-label">Email:</label>
+        <InputText id="email" @bind-Value="user.Email" type="email" class="form-control" />
+        <ValidationMessage For="@(() => user.Email)" />
+    </div>
+
+    <div class="mb-3">
+        <label for="password" class="form-label">Mật khẩu:</label>
+        <InputText id="password" @bind-Value="user.Password" type="password" class="form-control" />
+        <ValidationMessage For="@(() => user.Password)" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Đăng Ký</button>
+</EditForm>
+
+@code {
+    private UserRegistrationModel user = new UserRegistrationModel();
+
+    private async Task HandleValidSubmit()
+    {
+        var newUser = new UserRegistrationModel
+            {
+                Username = user.Username,
+                Email = user.Email,
+                Password = user.Password // Thực tế nên mã hóa mật khẩu trước khi lưu
+            };
+
+      //  dbContext.Users.Add(newUser);
+       // await dbContext.SaveChangesAsync();
+
+        // Chuyển hướng hoặc thông báo thành công
+        Console.WriteLine($"Đăng ký thành công cho: {user.Username}");
+    }
+
+    public class UserRegistrationModel
+    {
+        public string Username { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+}
