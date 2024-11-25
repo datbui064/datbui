@@ -1167,3 +1167,4 @@ D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\projectbundle\CEM.bundle.scp.
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.csproj.Up2Date
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.genruntimeconfig.cache
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\ref\CEM.dll
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.sourcelink.json

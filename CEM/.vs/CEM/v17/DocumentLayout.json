@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\WorkSpace\\B10D55\\CEM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,32 +27,12 @@
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\luutru.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\luutru.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\data\\qd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\data\\giaobai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:data\\giaobai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\wwwroot\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -157,6 +149,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T17:36:02.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Error.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
@@ -169,32 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:57:02.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ChuongTrinhDaoTao.cs",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\ChuongTrinhDaoTao.cs",
-              "RelativeDocumentMoniker": "Data\\ChuongTrinhDaoTao.cs",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Data\\ChuongTrinhDaoTao.cs",
-              "RelativeToolTip": "Data\\ChuongTrinhDaoTao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T09:57:02.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "BaoCaoNgoaiKhoa.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\BaoCaoNgoaiKhoa.cs",
               "RelativeDocumentMoniker": "Data\\BaoCaoNgoaiKhoa.cs",
@@ -206,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Qd.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\Qd.cs",
               "RelativeDocumentMoniker": "Data\\Qd.cs",
@@ -218,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "BaiGiang.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\BaiGiang.cs",
               "RelativeDocumentMoniker": "Data\\BaiGiang.cs",
@@ -230,19 +210,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Login.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Login.razor",
               "RelativeToolTip": "Components\\Pages\\Login.razor",
-              "ViewState": "AQIAADcAAAAAAAAAAIAzwEoAAAAOAAAA",
+              "ViewState": "AgIAADgAAAAAAAAAAAAEwEoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:57:02.637Z"
+              "WhenOpened": "2024-11-25T09:57:02.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "GiaoBai.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\GiaoBai.cs",
               "RelativeDocumentMoniker": "Data\\GiaoBai.cs",
@@ -254,19 +235,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LuuTru.razor",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\LuuTru.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\LuuTru.razor",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\LuuTru.razor",
-              "RelativeToolTip": "Components\\Pages\\LuuTru.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:57:02.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Program.cs",
@@ -275,12 +243,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T09:57:02.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T09:57:02.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Test.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Test.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Test.razor",
@@ -293,20 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "Components\\Pages\\Weather.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:57:02.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Imports.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -314,12 +268,11 @@
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:57:02.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T09:57:02.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "HeThongGiaoAn.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\HeThongGiaoAn.cs",
               "RelativeDocumentMoniker": "Data\\HeThongGiaoAn.cs",
@@ -331,7 +284,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
+              "Title": "Upload.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Upload.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Upload.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Upload.razor",
+              "RelativeToolTip": "Components\\Pages\\Upload.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:57:02.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:57:02.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChuongTrinhDaoTao.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\ChuongTrinhDaoTao.cs",
+              "RelativeDocumentMoniker": "Data\\ChuongTrinhDaoTao.cs",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Data\\ChuongTrinhDaoTao.cs",
+              "RelativeToolTip": "Data\\ChuongTrinhDaoTao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:57:02.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "HeThongCauhoivaBt.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\HeThongCauhoivaBt.cs",
               "RelativeDocumentMoniker": "Data\\HeThongCauhoivaBt.cs",
@@ -343,20 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:57:02.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "KeHoachThucHienBiaGiang.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\KeHoachThucHienBiaGiang.cs",
               "RelativeDocumentMoniker": "Data\\KeHoachThucHienBiaGiang.cs",
@@ -368,19 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Upload.razor",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Upload.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Upload.razor",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Upload.razor",
-              "RelativeToolTip": "Components\\Pages\\Upload.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:57:02.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -392,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "TaiLieuCtngoaiKhoa.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\TaiLieuCtngoaiKhoa.cs",
               "RelativeDocumentMoniker": "Data\\TaiLieuCtngoaiKhoa.cs",
@@ -404,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "site.js",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\wwwroot\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\site.js",
@@ -416,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -428,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Register.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Auth\\Register.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Auth\\Register.razor",
@@ -440,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\wwwroot\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "wwwroot\\bootstrap\\bootstrap.min.css",
@@ -452,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "app.css",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\app.css",
@@ -464,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "favicon.png",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\wwwroot\\favicon.png",
               "RelativeDocumentMoniker": "wwwroot\\favicon.png",
@@ -475,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "GiaoTrinh.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\GiaoTrinh.cs",
               "RelativeDocumentMoniker": "Data\\GiaoTrinh.cs",
@@ -487,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "QlbContext.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\QlbContext.cs",
               "RelativeDocumentMoniker": "Data\\QlbContext.cs",
@@ -499,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "dbQLBContext.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\dbQLBContext.cs",
               "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\dbQLBContext.cs",
@@ -509,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "DangNhap.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Data\\DangNhap.cs",
               "RelativeDocumentMoniker": "Data\\DangNhap.cs",
@@ -521,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "tbBaiGiang.cs",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\tbBaiGiang.cs",
               "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\DUAN\\datbui\\CEM\\Models\\tbBaiGiang.cs",
@@ -531,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "CEM.csproj",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\CEM.csproj",
               "RelativeDocumentMoniker": "CEM.csproj",
