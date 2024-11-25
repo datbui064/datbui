@@ -3,8 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using CEM.Models;
 using Radzen;
 using CEM.Data;
+
 using System.Configuration;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Minio;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +20,8 @@ builder.Services.AddDbContext<CEMContext>(options =>
 
 
 
+
+
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
@@ -26,6 +30,10 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.Cookie.MaxAge = TimeSpan.FromMinutes(30);
         options.AccessDeniedPath = "/access_denied";
     });
+
+var minioConfig = configuration.GetSection("MinIO");
+
+builder.Services.AddSingleton<MinioService>();
 
 
 // Add services to the container.
@@ -53,8 +61,8 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseAuthentication();    
-app.UseAuthorization(); 
-
+app.UseAuthorization();
+app.MapBlazorHub();
 app.UseStaticFiles();
 app.UseAntiforgery();
 

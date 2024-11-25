@@ -1,28 +1,41 @@
-﻿@page "/file-upload"
-@using Microsoft.AspNetCore.Components.Forms
-@inject IHostEnvironment Environment
+﻿@page "/upload"
+@inject MinioService MinioService
 
-<h3>Upload File Word</h3>
+<h3>Upload File</h3>
 
-<InputFile OnChange="HandleFileSelected" accept=".docx" />
-@if (uploadResult != null)
+<InputFile OnChange="HandleFileSelected" />
+<button @onclick="UploadFile" disabled="!isFileSelected">Upload</button>
+
+@if (!string.IsNullOrEmpty(uploadStatus))
 {
-    <p>@uploadResult</p>
+    <p>@uploadStatus</p>
 }
 
 @code {
-    private string uploadResult;
+    private IBrowserFile selectedFile;
+    private string uploadStatus;
+    private bool isFileSelected = false;
 
-    private async Task HandleFileSelected(InputFileChangeEventArgs e)
+    private void HandleFileSelected(InputFileChangeEventArgs e)
     {
-        var file = e.File;
-        var path = Path.Combine(Environment.ContentRootPath, "wwwroot", "uploads", file.Name);
+        selectedFile = e.File;
+        isFileSelected = selectedFile != null;
+        Console.WriteLine($"File selected: {selectedFile?.Name}, isFileSelected: {isFileSelected}");
+    }
 
-        using (var stream = new FileStream(path, FileMode.Create))
+
+    private async Task UploadFile()
+    {
+        if (selectedFile != null)
         {
-            await file.OpenReadStream().CopyToAsync(stream);
-        }
+            using var stream = selectedFile.OpenReadStream(maxAllowedSize: 100 * 1024 * 1024); // Giới hạn kích thước tối đa 10MB
+            var result = await MinioService.UploadFileAsync(selectedFile.Name, stream);
 
-        uploadResult = $"File {file.Name} đã được upload thành công!";
+            uploadStatus = result ? "Upload thành công!" : "Upload không thành công!";
+        }
+        else
+        {
+            uploadStatus = "Vui lòng chọn file để upload.";
+        }
     }
 }
