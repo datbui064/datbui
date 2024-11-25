@@ -4,7 +4,7 @@
 <h3>Upload File</h3>
 
 <InputFile OnChange="HandleFileSelected" />
-<button @onclick="UploadFile" disabled="!isFileSelected">Upload</button>
+<button @onclick="UploadFile" disabled="@(!isFileSelected)">Upload</button>
 
 @if (!string.IsNullOrEmpty(uploadStatus))
 {
@@ -23,12 +23,11 @@
         Console.WriteLine($"File selected: {selectedFile?.Name}, isFileSelected: {isFileSelected}");
     }
 
-
     private async Task UploadFile()
     {
         if (selectedFile != null)
         {
-            using var stream = selectedFile.OpenReadStream(maxAllowedSize: 100 * 1024 * 1024); // Giới hạn kích thước tối đa 10MB
+            using var stream = selectedFile.OpenReadStream(maxAllowedSize: 10 * 1024 * 1024); // Giới hạn kích thước tối đa 10MB
             var result = await MinioService.UploadFileAsync(selectedFile.Name, stream);
 
             uploadStatus = result ? "Upload thành công!" : "Upload không thành công!";
