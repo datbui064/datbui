@@ -47,7 +47,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 
-
 builder.Services.AddSingleton<FileService>();
 
 
@@ -85,4 +84,4 @@ builder.Services.AddRazorComponents()
             .AddInteractiveServerRenderMode();
 
         app.Run();
-      
+

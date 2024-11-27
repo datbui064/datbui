@@ -1177,4 +1177,4 @@ D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.d
 D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
 D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
 D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.JSInterop.dll
-D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Taps\Tap_one.razor.rz.scp.css
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Taps\Tap1.razor.rz.scp.css

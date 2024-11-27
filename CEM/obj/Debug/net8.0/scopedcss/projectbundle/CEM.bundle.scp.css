@@ -319,10 +319,10 @@ label[b-olg59demgu] {
         color: #1877f2;
         text-decoration: none;
     }
-/* _content/CEM/Components/Pages/Taps/Tap_one.razor.rz.scp.css */
+/* _content/CEM/Components/Pages/Taps/Tap1.razor.rz.scp.css */
 /* styles.css */
 
-body[b-20jfat9xq4] {
+body[b-bkq2eoit79] {
     display: flex; /* Sử dụng flex để hiển thị nội dung */
     justify-content: center;
     align-items: center;
@@ -331,7 +331,7 @@ body[b-20jfat9xq4] {
     margin: 0; /* Xóa margin mặc định */
 }
 
-.container[b-20jfat9xq4] {
+.container[b-bkq2eoit79] {
     background-color: white; /* Màu nền cho form */
     padding: 20px;
     border-radius: 8px;
@@ -340,20 +340,20 @@ body[b-20jfat9xq4] {
     z-index: 1000; /* Đảm bảo container nằm trên các phần tử khác */
 }
 
-h3[b-20jfat9xq4] {
+h3[b-bkq2eoit79] {
     color: #3498db; /* Màu tiêu đề */
     text-align: center;
 }
 
-label[b-20jfat9xq4] {
+label[b-bkq2eoit79] {
     font-weight: bold;
     display: block;
     margin-top: 10px;
 }
 
-input[type="text"][b-20jfat9xq4],
-input[type="date"][b-20jfat9xq4],
-textarea[b-20jfat9xq4] {
+input[type="text"][b-bkq2eoit79],
+input[type="date"][b-bkq2eoit79],
+textarea[b-bkq2eoit79] {
     width: 100%;
     padding: 8px;
     margin-top: 5px;
@@ -361,7 +361,7 @@ textarea[b-20jfat9xq4] {
     border-radius: 4px;
 }
 
-button[b-20jfat9xq4] {
+button[b-bkq2eoit79] {
     background-color: cadetblue; /* Màu nút */
     color: white;
     padding: 10px 15px;
@@ -372,12 +372,12 @@ button[b-20jfat9xq4] {
     width: 100%; /* Đặt chiều rộng nút bằng 100% */
 }
 
-    button:hover[b-20jfat9xq4] {
+    button:hover[b-bkq2eoit79] {
         background-color: #2980b9; /* Màu nút khi hover */
     }
 
 /* Thêm lớp phủ cho modal */
-.rz-overlay[b-20jfat9xq4] {
+.rz-overlay[b-bkq2eoit79] {
     position: fixed;
     top: 0;
     left: 0;
@@ -386,3 +386,5 @@ button[b-20jfat9xq4] {
     background-color: rgba(0, 0, 0, 0.5); /* Màu nền mờ cho lớp phủ */
     z-index: 999; /* Đảm bảo lớp phủ nằm trên các phần tử khác */
 }
+
+
