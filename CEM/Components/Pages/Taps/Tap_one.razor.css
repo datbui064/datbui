@@ -1,0 +1,53 @@
+﻿/* styles.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Chiều cao của viewport */
+    background-color: #f4f4f4; /* Màu nền */
+}
+
+.container {
+    background-color: white; /* Màu nền cho form */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 400px; /* Chiều rộng của form */
+}
+
+h3 {
+    color: #3498db; /* Màu tiêu đề */
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+
+input[type="text"],
+input[type="date"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #3498db; /* Màu nút */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 15px;
+    width: 100%; /* Đặt chiều rộng nút bằng 100% */
+}
+
+    button:hover {
+        background-color: #2980b9; /* Màu nút khi hover */
+    }

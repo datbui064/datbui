@@ -1,71 +1,103 @@
 ﻿@page "/tap1"
+@using Radzen
+@using Radzen.Blazor
+@inject IJSRuntime JSRuntime
+@inject DialogService DialogService
 
-@inject FileService fileService
+<h3>Tập 1: Chương Trình Đào Tạo</h3>
+<div class="container">
+    <EditForm Model="@tap1Data" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
 
+        <label>Tên Chương Trình Đào Tạo:</label>
+        <InputText @bind-Value="tap1Data.TenChuongTrinh" /><br />
 
+        <label>Tên Học Phần Môn Học:</label>
+        <InputText @bind-Value="tap1Data.TenHocPhan" /><br />
 
+        <label>Mã Học Phần:</label>
+        <InputText @bind-Value="tap1Data.MaHocPhan" /><br />
 
+        <label>Mô Tả Nội dung:</label>
+        <InputTextArea @bind-Value="tap1Data.MoTa" /><br />
 
-<h3>Tập 1: Quyết định thành lập hồ sơ bài giảng</h3>
+        <label>Giảng Viên Phụ Trách:</label>
+        <InputTextArea @bind-Value="tap1Data.GiangVien" /><br />
 
-<EditForm Model="@tap1Data" OnValidSubmit="HandleValidSubmit">
-    <DataAnnotationsValidator />
+        <label>File Đính Kèm:</label>
+        <InputFile @OnChange="HandleFileSelected" />
 
-    <label>Số quyết định:</label>
-    <InputText @bind-Value="tap1Data.SoQuyetDinh" /><br />
+        <button type="button" class="btn btn-primary" @onclick="OpenDeCuongModal">Đề Cương Chi Tiết</button>
+        <button type="submit" class="btn btn-success">Lưu thông tin</button>
+    </EditForm>
 
-    <label>Ngày ban hành:</label>
-    <InputDate @bind-Value="tap1Data.NgayBanHanh" /><br />
+    <!-- Radzen Modal -->
+    @if (showDeCuongModal)
+    {
+        <RadzenDialog @ref="deCuongDialog" Title="Nhập Thông Tin Đề Cương Chi Tiết" CloseDialog="CloseDeCuongModal">
+            <div>
+                <label>Tên Đề Cương:</label>
+                <InputText @bind-Value="tap1Data.TenDeCuong" class="form-control" /><br />
 
-    <label>Cơ quan/đơn vị ban hành:</label>
-    <InputText @bind-Value="tap1Data.CoQuanBanHanh" /><br />
-
-    <label>Mô Tả Nội dung quyết định:</label>
-    <InputTextArea @bind-Value="tap1Data.NoiDungQuyetDinh" /><br />
-
-    <label>Người Phê Duyệt:</label>
-    <InputTextArea @bind-Value="tap1Data.NguoiPheDuyet" /><br />
-
-    <label>File Đính Kèm:</label>
-    <InputFile @OnChange="HandleValidSubmit"/> 
-
-    <button type="submit">Lưu thông tin</button>
-</EditForm>
+                <label>Nội Dung Đề Cương:</label>
+                <InputTextArea @bind-Value="tap1Data.NoiDungDeCuong" class="form-control" /><br />
+            </div>
+            <div>
+                <button type="button" class="btn btn-secondary" @onclick="CloseDeCuongModal">Đóng</button>
+                <button type="button" class="btn btn-primary" @onclick="SaveDeCuong">Lưu Đề Cương</button>
+            </div>
+        </RadzenDialog>
+    }
+</div>
 
 @code {
     private Tap1Data tap1Data = new();
-
-    private IBrowserFile uploadedFile;
+    private IBrowserFile? uploadedFile;
+    private bool showDeCuongModal = false;
+    private RadzenDialog? deCuongDialog;
 
     private void HandleFileSelected(InputFileChangeEventArgs e)
     {
         uploadedFile = e.File;
     }
 
+    private void OpenDeCuongModal()
+    {
+        showDeCuongModal = true;
+    }
+
+    private void CloseDeCuongModal()
+    {
+        showDeCuongModal = false;
+    }
+
+    private void SaveDeCuong()
+    {
+        // Logic để lưu thông tin đề cương
+        Console.WriteLine("Đề Cương đã được lưu!");
+        CloseDeCuongModal(); // Đóng modal sau khi lưu
+    }
+
     private async Task HandleValidSubmit()
     {
         if (uploadedFile != null)
         {
-            // Chuyển đổi file thành byte[]
             using var stream = uploadedFile.OpenReadStream();
             using var memoryStream = new MemoryStream();
             await stream.CopyToAsync(memoryStream);
             var fileBytes = memoryStream.ToArray();
-
-            // Lưu file vào MinIO hoặc lưu trữ tạm thời
-            await fileService.UploadFileAsync(uploadedFile.Name, fileBytes);
+            // Lưu fileBytes ở đây
         }
-
-        // Lưu thông tin khác vào cơ sở dữ liệu
     }
 
     public class Tap1Data
     {
-        public string? SoQuyetDinh { get; set; }
-        public DateTime? NgayBanHanh { get; set; }
-        public string? CoQuanBanHanh { get; set; }
-        public string? NoiDungQuyetDinh { get; set; }
-        public string? NguoiPheDuyet { get; set; }
+        public string? TenChuongTrinh { get; set; }
+        public string? TenHocPhan { get; set; }
+        public string? MaHocPhan { get; set; }
+        public string? MoTa { get; set; }
+        public string? GiangVien { get; set; }
+        public string? TenDeCuong { get; set; }
+        public string? NoiDungDeCuong { get; set; }
     }
 }
-

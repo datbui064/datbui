@@ -883,8 +883,6 @@ D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.AssemblyInfoInputs.cache
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.AssemblyInfo.cs
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.csproj.CoreCompileInputs.cache
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.MvcApplicationPartsAssemblyInfo.cache
-D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cache
-D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.RazorAssemblyInfo.cs
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.sourcelink.json
 D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\appsettings.Development.json
 D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\appsettings.json
@@ -1179,3 +1177,4 @@ D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.d
 D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
 D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
 D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\scopedcss\Components\Pages\Taps\Tap_one.razor.rz.scp.css
