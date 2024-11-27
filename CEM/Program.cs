@@ -8,16 +8,17 @@ using System.Configuration;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Minio;
 using Blazored.Toast;
+using CEM.DATA;
 
 
-        var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);
 
         IConfigurationRoot configuration = new ConfigurationBuilder()
                                 .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
                                 .AddJsonFile("appsettings.json")
                                 .Build();
 
-        builder.Services.AddDbContext<CEMContext>(options =>
+        builder.Services.AddDbContext<QlbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DBConnection")));
 
 

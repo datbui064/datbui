@@ -1,0 +1,32 @@
+﻿@inherits RadzenComponent
+@using Radzen
+@using static CEM.Components.Pages.Taps.Tap_one
+@inject DialogService DialogService
+
+<div class="container">
+    <label>Tên Đề Cương:</label>
+    <InputText @bind-Value="tap1Data.TenDeCuong" class="form-control" /><br />
+
+    <label>Nội Dung Đề Cương:</label>
+    <InputTextArea @bind-Value="tap1Data.NoiDungDeCuong" class="form-control" /><br />
+
+    <div class="d-flex justify-content-end">
+        <button type="button" class="btn btn-secondary me-2" @onclick="Close">Đóng</button>
+        <button type="button" class="btn btn-primary" @onclick="SaveDeCuong">Lưu Đề Cương</button>
+    </div>
+</div>
+
+@code {
+    [Parameter] public Tap1Data tap1Data { get; set; } = new();
+
+    private void SaveDeCuong()
+    {
+        Console.WriteLine("Đề Cương đã được lưu!");
+        DialogService.Close(true); // Đóng modal và trả về true
+    }
+
+    private void Close()
+    {
+        DialogService.Close(false); // Đóng modal và trả về false
+    }
+}

@@ -1,11 +1,12 @@
 ﻿/* styles.css */
 
 body {
-    display: flex;
+    display: flex; /* Sử dụng flex để hiển thị nội dung */
     justify-content: center;
     align-items: center;
     height: 100vh; /* Chiều cao của viewport */
     background-color: #f4f4f4; /* Màu nền */
+    margin: 0; /* Xóa margin mặc định */
 }
 
 .container {
@@ -14,6 +15,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     width: 400px; /* Chiều rộng của form */
+    z-index: 1000; /* Đảm bảo container nằm trên các phần tử khác */
 }
 
 h3 {
@@ -38,7 +40,7 @@ textarea {
 }
 
 button {
-    background-color: #3498db; /* Màu nút */
+    background-color: cadetblue; /* Màu nút */
     color: white;
     padding: 10px 15px;
     border: none;
@@ -51,3 +53,14 @@ button {
     button:hover {
         background-color: #2980b9; /* Màu nút khi hover */
     }
+
+/* Thêm lớp phủ cho modal */
+.rz-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền mờ cho lớp phủ */
+    z-index: 999; /* Đảm bảo lớp phủ nằm trên các phần tử khác */
+}

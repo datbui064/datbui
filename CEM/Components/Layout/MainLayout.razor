@@ -1,11 +1,18 @@
-﻿@inherits LayoutComponentBase
+﻿@using Radzen.Blazor
+@inherits LayoutComponentBase
 
 <div class="page">
     <div class="sidebar">
         <NavMenu />
+        
+
     </div>
 
     <main>
+        <RadzenDialog /> @* Kích hoạt dịch vụ Dialog *@
+        <RadzenNotification /> @* Kích hoạt Notification nếu cần *@
+        <RadzenTooltip /> @* Kích hoạt Tooltip nếu cần *@
+        <RadzenContextMenu /> @* Kích hoạt Context Menu nếu cần *@
         <div class="top-row px-4">
             <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
         </div>
