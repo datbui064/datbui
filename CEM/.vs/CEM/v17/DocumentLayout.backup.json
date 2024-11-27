@@ -3,32 +3,64 @@
   "WorkspaceRootPath": "D:\\WorkSpace\\B10D55\\CEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\taps\\tap_one.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\taps\\tap_one.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\models\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\models\\cemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\cemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\models\\usermanagerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\usermanagerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\taps\\tap_two.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\taps\\tap_two.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\wordview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\wordview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\taps\\tap_one.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\taps\\tap_one.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\obj\\debug\\net8.0\\cem.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:obj\\debug\\net8.0\\cem.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\taps\\tap_two.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\taps\\tap_two.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,8 +90,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Models\\LoginView.cs",
+              "RelativeDocumentMoniker": "Models\\LoginView.cs",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Models\\LoginView.cs",
+              "RelativeToolTip": "Models\\LoginView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:00:46.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CEMContext.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Models\\CEMContext.cs",
+              "RelativeDocumentMoniker": "Models\\CEMContext.cs",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Models\\CEMContext.cs",
+              "RelativeToolTip": "Models\\CEMContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:00:44.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:00:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManagerResponse.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Models\\UserManagerResponse.cs",
+              "RelativeDocumentMoniker": "Models\\UserManagerResponse.cs",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Models\\UserManagerResponse.cs",
+              "RelativeToolTip": "Models\\UserManagerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:00:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:00:38.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CEM.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\obj\\Debug\\net8.0\\CEM.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\CEM.GlobalUsings.g.cs",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\obj\\Debug\\net8.0\\CEM.GlobalUsings.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\CEM.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:57:40.653Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -82,44 +188,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tap_two.razor",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_two.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Taps\\Tap_two.razor",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_two.razor",
-              "RelativeToolTip": "Components\\Pages\\Taps\\Tap_two.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T02:38:09.2Z"
+              "DocumentIndex": 10,
+              "Title": "fileService.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Services\\fileService.cs",
+              "RelativeDocumentMoniker": "Services\\fileService.cs",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Services\\fileService.cs",
+              "RelativeToolTip": "Services\\fileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:57:32.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Tap_one.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_one.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Taps\\Tap_one.razor",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_one.razor",
               "RelativeToolTip": "Components\\Pages\\Taps\\Tap_one.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-27T02:36:50.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T02:27:00.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "_Imports.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -131,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "MinioService.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Services\\MinioService.cs",
               "RelativeDocumentMoniker": "Services\\MinioService.cs",
@@ -143,19 +238,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Test.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Test.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Test.razor",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Test.razor",
               "RelativeToolTip": "Components\\Pages\\Test.razor",
-              "ViewState": "AgIAACwAAAAAAAAAAAAEwEQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAEwEQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T17:50:05.87Z"
+              "WhenOpened": "2024-11-25T17:50:05.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -163,11 +259,12 @@
               "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T17:50:03.401Z"
+              "WhenOpened": "2024-11-25T17:50:03.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -179,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -191,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -203,19 +300,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Upload.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Upload.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Upload.razor",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Upload.razor",
               "RelativeToolTip": "Components\\Pages\\Upload.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T17:47:11.618Z"
+              "WhenOpened": "2024-11-25T17:47:11.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "WordView.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\WordView.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\WordView.razor",
@@ -223,11 +321,12 @@
               "RelativeToolTip": "Components\\Pages\\WordView.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T02:48:16.062Z"
+              "WhenOpened": "2024-11-26T02:48:16.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Login.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
@@ -235,7 +334,33 @@
               "RelativeToolTip": "Components\\Pages\\Login.razor",
               "ViewState": "AgIAACoAAAAAAAAAAAAawEMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T17:47:10.939Z"
+              "WhenOpened": "2024-11-25T17:47:10.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tap_two.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_two.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Taps\\Tap_two.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_two.razor",
+              "RelativeToolTip": "Components\\Pages\\Taps\\Tap_two.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T02:38:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T02:27:00.651Z"
             }
           ]
         }

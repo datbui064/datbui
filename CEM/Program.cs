@@ -2,7 +2,7 @@ using CEM.Components;
 using Microsoft.EntityFrameworkCore;
 using CEM.Models;
 using Radzen;
-using CEM.Data;
+
 
 using System.Configuration;
 using Microsoft.AspNetCore.Authentication.Cookies;
@@ -47,9 +47,11 @@ using Blazored.Toast;
 
 
 
+builder.Services.AddSingleton<FileService>();
 
-        // Add services to the container.
-        builder.Services.AddRazorComponents()
+
+// Add services to the container.
+builder.Services.AddRazorComponents()
             .AddInteractiveServerComponents();
         builder.Services.AddRadzenComponents();
         builder.Services.AddServerSideBlazor();
