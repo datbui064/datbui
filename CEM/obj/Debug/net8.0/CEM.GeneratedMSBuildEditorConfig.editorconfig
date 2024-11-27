@@ -46,8 +46,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap_two.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcF90d28ucmF6b3I=
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap3.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcDMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap4.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcDQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap5.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcDUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap6.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcDYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap7.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcDcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap8.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcDgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WorkSpace/B10D55/CEM/Components/Pages/Test.razor]
@@ -90,6 +114,6 @@ build_metadata.AdditionalFiles.CssScope = b-4008i97kd2
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-olg59demgu
 
-[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap_one.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcF9vbmUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-20jfat9xq4
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcDEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bkq2eoit79
