@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\WorkSpace\\B10D55\\CEM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\wordview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\wordview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\taps\\tap_one.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\taps\\tap_one.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\wordview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\wordview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Tap_two.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_two.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Taps\\Tap_two.razor",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Tap_one.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_one.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Taps\\Tap_one.razor",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -203,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Upload.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Upload.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Upload.razor",
@@ -215,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "WordView.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\WordView.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\WordView.razor",
@@ -223,7 +223,8 @@
               "RelativeToolTip": "Components\\Pages\\WordView.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T02:48:16.062Z"
+              "WhenOpened": "2024-11-26T02:48:16.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
