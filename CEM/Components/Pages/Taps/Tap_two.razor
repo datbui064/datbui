@@ -1,0 +1,37 @@
+﻿@page "/tap2"
+<h3>Tập 1: Quyết định thành lập hồ sơ bài giảng</h3>
+
+<EditForm Model="@tap1Data" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+
+    <label>Số quyết định:</label>
+    <InputText @bind-Value="tap1Data.SoQuyetDinh" /><br />
+
+    <label>Ngày ban hành:</label>
+    <InputDate @bind-Value="tap1Data.NgayBanHanh" /><br />
+
+    <label>Cơ quan/đơn vị ban hành:</label>
+    <InputText @bind-Value="tap1Data.CoQuanBanHanh" /><br />
+
+    <label>Nội dung quyết định:</label>
+    <InputTextArea @bind-Value="tap1Data.NoiDungQuyetDinh" /><br />
+
+    <button type="submit">Lưu thông tin</button>
+</EditForm>
+
+@code {
+    private Tap1Data tap1Data = new();
+
+    private void HandleValidSubmit()
+    {
+        // Gọi service để lưu dữ liệu vào cơ sở dữ liệu
+    }
+
+    public class Tap1Data
+    {
+        public string SoQuyetDinh { get; set; }
+        public DateTime NgayBanHanh { get; set; }
+        public string CoQuanBanHanh { get; set; }
+        public string NoiDungQuyetDinh { get; set; }
+    }
+}

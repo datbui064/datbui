@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\WorkSpace\\B10D55\\CEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\taps\\tap_one.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\taps\\tap_one.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\taps\\tap_two.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\taps\\tap_two.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\wordview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\wordview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +43,12 @@
       "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54E49ADF-7776-496B-9ADC-261BD52AFFB0}|CEM.csproj|d:\\workspace\\b10d55\\cem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,6 +83,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Tap_two.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_two.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Taps\\Tap_two.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_two.razor",
+              "RelativeToolTip": "Components\\Pages\\Taps\\Tap_two.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T02:38:09.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tap_one.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_one.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Taps\\Tap_one.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Taps\\Tap_one.razor",
+              "RelativeToolTip": "Components\\Pages\\Taps\\Tap_one.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T02:36:50.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T02:27:00.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Imports.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -82,32 +131,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.razor",
-              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Auth\\Register.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Auth\\Register.razor",
-              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Auth\\Register.razor",
-              "RelativeToolTip": "Components\\Pages\\Auth\\Register.razor",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T18:23:14.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "MinioService.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Services\\MinioService.cs",
               "RelativeDocumentMoniker": "Services\\MinioService.cs",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Services\\MinioService.cs",
               "RelativeToolTip": "Services\\MinioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T18:20:42.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T18:20:42.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Test.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Test.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Test.razor",
@@ -119,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -131,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -143,25 +179,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-25T17:49:14.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T17:47:53.895Z"
             },
@@ -173,20 +209,31 @@
               "RelativeDocumentMoniker": "Components\\Pages\\Upload.razor",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Upload.razor",
               "RelativeToolTip": "Components\\Pages\\Upload.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T17:47:11.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T17:47:11.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "WordView.razor",
+              "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\WordView.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\WordView.razor",
+              "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\WordView.razor",
+              "RelativeToolTip": "Components\\Pages\\WordView.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T02:48:16.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Login.razor",
               "DocumentMoniker": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
               "ToolTip": "D:\\WorkSpace\\B10D55\\CEM\\Components\\Pages\\Login.razor",
               "RelativeToolTip": "Components\\Pages\\Login.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawEMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-25T17:47:10.939Z"
             }

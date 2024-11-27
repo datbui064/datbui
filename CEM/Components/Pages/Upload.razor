@@ -1,40 +1,72 @@
 ﻿@page "/upload"
-@inject MinioService MinioService
+@using Blazored.Toast.Services
+@inject IToastService ToastService
+@inject HttpClient Http
+@using Microsoft.AspNetCore.Components.Forms
 
-<h3>Upload File</h3>
+<h1>Tải lên tệp lên MinIO</h1>
 
 <InputFile OnChange="HandleFileSelected" />
-<button @onclick="UploadFile" disabled="@(!isFileSelected)">Upload</button>
-
-@if (!string.IsNullOrEmpty(uploadStatus))
-{
-    <p>@uploadStatus</p>
-}
+<button @onclick="UploadFile" disabled="@(!isFileSelected)">Tải lên</button>
+<p>@statusMessage</p>
 
 @code {
-    private IBrowserFile selectedFile;
-    private string uploadStatus;
+    private IBrowserFile? selectedFile;
+    private string? statusMessage;
     private bool isFileSelected = false;
 
-    private void HandleFileSelected(InputFileChangeEventArgs e)
+    private async Task HandleFileSelected(InputFileChangeEventArgs e)
     {
-        selectedFile = e.File;
-        isFileSelected = selectedFile != null;
-        Console.WriteLine($"File selected: {selectedFile?.Name}, isFileSelected: {isFileSelected}");
+        if (e.FileCount > 0)
+        {
+            selectedFile = e.File;
+            isFileSelected = true;
+            statusMessage = $"Đã chọn tệp: {selectedFile.Name}";
+            ToastService.ShowInfo("Tệp đã được chọn.");
+        }
+        else
+        {
+            isFileSelected = false;
+            statusMessage = "Chưa chọn tệp nào.";
+        }
     }
 
     private async Task UploadFile()
     {
         if (selectedFile != null)
         {
-            using var stream = selectedFile.OpenReadStream(maxAllowedSize: 10 * 1024 * 1024); // Giới hạn kích thước tối đa 10MB
-            var result = await MinioService.UploadFileAsync(selectedFile.Name, stream);
+            try
+            {
+                var content = new MultipartFormDataContent();
 
-            uploadStatus = result ? "Upload thành công!" : "Upload không thành công!";
+                // Sử dụng using để đảm bảo giải phóng tài nguyên
+                using (var stream = selectedFile.OpenReadStream(maxAllowedSize: 5 * 1024 * 1024))
+                {
+                    content.Add(new StreamContent(stream), "file", selectedFile.Name);
+
+                    var response = await Http.PostAsync("/upload", content);
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        statusMessage = "Tệp đã được tải lên thành công!";
+                        ToastService.ShowSuccess("Tải lên thành công!");
+                    }
+                    else
+                    {
+                        statusMessage = "Có lỗi xảy ra khi tải lên tệp.";
+                        ToastService.ShowError("Có lỗi xảy ra!");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                statusMessage = $"Có lỗi xảy ra: {ex.Message}";
+                ToastService.ShowError($"Có lỗi xảy ra: {ex.Message}");
+            }
         }
         else
         {
-            uploadStatus = "Vui lòng chọn file để upload.";
+            statusMessage = "Vui lòng chọn tệp trước khi tải lên.";
         }
     }
 }

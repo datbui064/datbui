@@ -1,1 +1,43 @@
-﻿
+﻿@page "/up"
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tải Tệp Lên MinIO</title>
+    <script src="https://cdn.jsdelivr.net/npm/minio/dist/minio.min.js"></script>
+</head>
+<body>
+    <h1>Tải Tệp Lên MinIO</h1>
+    <input type="file" id="fileInput" />
+    <button id="uploadButton">Tải lên</button>
+
+    <script>
+        const minioClient = new Minio.Client({
+            endPoint: 'htpp://localhost:9000 ',
+            port: 9000, // Thay đổi nếu cần
+            useSSL: false, // Đặt true nếu sử dụng SSL
+            accessKey: 'dev1',
+            secretKey: '1234567890'
+        });
+
+        document.getElementById('uploadButton').addEventListener('click', () => {
+            const fileInput = document.getElementById('fileInput');
+            const file = fileInput.files[0];
+
+            if (file) {
+                const bucketName = 'upload';
+                minioClient.fPutObject(bucketName, file.name, file.path, (err, etag) => {
+                    if (err) {
+                        return console.log('Lỗi tải lên:', err);
+                    }
+                    console.log('Tệp đã được tải lên với etag:', etag);
+                    alert('Tệp đã được tải lên thành công!');
+                });
+            } else {
+                alert('Vui lòng chọn tệp để tải lên.');
+            }
+        });
+    </script>
+</body>
+</html>

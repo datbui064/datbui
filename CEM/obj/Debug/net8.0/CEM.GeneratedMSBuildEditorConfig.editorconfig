@@ -42,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap_one.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcF9vbmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/B10D55/CEM/Components/Pages/Taps/Tap_two.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYXBzXFRhcF90d28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/WorkSpace/B10D55/CEM/Components/Pages/Test.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUZXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

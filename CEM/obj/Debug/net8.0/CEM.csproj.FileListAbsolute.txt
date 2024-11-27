@@ -1172,3 +1172,10 @@ D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\refint\CEM.dll
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.pdb
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\CEM.genruntimeconfig.cache
 D:\WorkSpace\B10D55\CEM\obj\Debug\net8.0\ref\CEM.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Blazored.Toast.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\WorkSpace\B10D55\CEM\bin\Debug\net8.0\Microsoft.JSInterop.dll
